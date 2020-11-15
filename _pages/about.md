@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website for ZHAN Xianyuan|詹仙园"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
