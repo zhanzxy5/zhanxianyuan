@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-cn"
-title                    : "ZHAN Xianyuan | 詹仙园"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhan Xianyuan"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xianyuan Zhan | 詹仙园"
+  name             : "Xianyuan Zhan\n詹仙园 "
   avatar           : "profile.png"
   bio              : "Data Scientist at JD Digits, Senior Researcher of JD Intelligent Cities Research"
   location         : "Location"
