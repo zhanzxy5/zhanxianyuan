@@ -83,12 +83,12 @@ author:
   name             : "詹仙园|Xianyuan Zhan"
   avatar           : "profile.png"
   bio              : "Data Scientist at JD Digits, Senior Researcher of JD Intelligent Cities Research"
-  location         : "Location"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pDMnGloAAAAJ"
   email            : "zhanxianyuan@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Xianyuan_Zhan"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,16 +102,16 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xianyuan-zhan/"
   orcid            : "https://orcid.org/0000-0002-3683-0554"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "https://www.weibo.com/bobcattheskywalker"
   xing             :
   youtube          :
   wikipedia        :
