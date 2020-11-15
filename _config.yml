@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-cn"
-title                    : "Home"
+title                    : "詹仙园 | ZHAN Xianyuan"
 title_separator          : "-"
 name                     : &name "Zhan Xianyuan"
 description              : &description "personal description"
