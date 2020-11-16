@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.E. in Civil Engineering, Tsinghua University, 2011
 * M.S.E. in Transportation Systems, Civil Engineering, Purdue University, 2012
 * M.S. in Computer Science, Purdue University, 2016
 * Ph.D in Transportation Systems, Civil Engineering, Purdue University, 2017
 
-Work experience
-======
+## Work experience
 * 2019/01 - Present: Data Scientist, Senior Researcher
   * JD Digits
   * JD iCity, JD Intelligent Cities Research
@@ -52,8 +50,7 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Honors & Awards
-======
+## Honors & Awards
 * 2020: 2019 Synced Machine Intelligence Awards: 30 Best AI Use Cases of the Year, SYNCED
 * 2018: Artificial Intelligence Innovation Award, CAIS 2018
 * 2016: James S. McDonnell Foundation (JSMF) Postdoctoral Fellowship Award in Studying Complex Systems, James S. McDonnell Foundation
@@ -64,21 +61,18 @@ Honors & Awards
 * 2009: Zheng Ge Ru Scholarship, Tsinghua University
 * Gammon Scholarship, Tsinghua University
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Professional Activities
-======
-## Reviewer of Journals
+## Professional Activities
+### Reviewer of Journals
 * PLOS ONE
 * ACM Transactions on Intelligent Systems and Technology (TIST)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
@@ -99,20 +93,18 @@ Professional Activities
 * IET Intelligent Transport Systems
 * Journal of Physics: Complexity
 
-## Reviewer of Conferences
+### Reviewer of Conferences
 * AAAI Conference on Artificial Intelligence
 * IEEE Conference on Decision and Control
 * Transportation Research Board Annual Meeting
 * China Conference on Data Mining (CCDM)
 
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
 * 2018 - Present: Committee Member
   * Technical Committee on Artificial Intelligence & Pattern Recognition of China Computer Federation (CCF-AI)
 
