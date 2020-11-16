@@ -59,7 +59,7 @@ redirect_from:
 * 2011: 2nd Prize of Fifth National Competition of Transport Science and Technology for Students, China
 * 2010: Gammon Scholarship, Tsinghua University
 * 2009: Zheng Ge Ru Scholarship, Tsinghua University
-* Gammon Scholarship, Tsinghua University
+* 2008: Gammon Scholarship, Tsinghua University
 
 ## Service and leadership
 * 2018 - Present: Committee Member

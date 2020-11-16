@@ -20,6 +20,9 @@ main:
 
   - title: "CV"
     url: /cv/
-    
+
+  - title: "中文简介"
+    url: /cv-CN/
+
   - title: "Guide"
     url: /markdown/
