@@ -61,6 +61,14 @@ redirect_from:
 * 2009: Zheng Ge Ru Scholarship, Tsinghua University
 * Gammon Scholarship, Tsinghua University
 
+## Service and leadership
+* 2018 - Present: Committee Member
+  * Technical Committee on Artificial Intelligence & Pattern Recognition of China Computer Federation (CCF-AI)
+
+* 2018 - Present: Member
+  * China Computer Federation (CCF)
+
+
 ## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -104,11 +112,4 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Service and leadership
-* 2018 - Present: Committee Member
-  * Technical Committee on Artificial Intelligence & Pattern Recognition of China Computer Federation (CCF-AI)
-
-* 2018 - Present: Member
-  * China Computer Federation (CCF)
-
 
