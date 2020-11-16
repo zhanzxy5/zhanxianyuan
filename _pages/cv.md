@@ -54,34 +54,15 @@ Work experience
 
 Honors & Awards
 ======
-* 2020: 2019 Synced Machine Intelligence Awards: 30 Best AI Use Cases of the Year
-  * SYNCED
-
-* 2018: Artificial Intelligence Innovation Award
-  * CAIS 2018
-
-* 2016: James S. McDonnell Foundation (JSMF) Postdoctoral Fellowship Award in Studying Complex Systems
-  * James S. McDonnell Foundation
-
-* 2014: Pai Tao Yeh Fellowship
-  * Purdue University
-
-* 2013: Pai Tao Yeh Fellowship
-  * Purdue University
-
-* 2011: 2nd Prize of Fifth National Competition of Transport Science and Technology for Students
-  * China
-
-* 2010: Gammon Scholarship
-  * Tsinghua University
-
-* 2009: Zheng Ge Ru Scholarship
-  * Tsinghua University
-
-* Gammon Scholarship
-  * Tsinghua University
-
-
+* 2020: 2019 Synced Machine Intelligence Awards: 30 Best AI Use Cases of the Year, SYNCED
+* 2018: Artificial Intelligence Innovation Award, CAIS 2018
+* 2016: James S. McDonnell Foundation (JSMF) Postdoctoral Fellowship Award in Studying Complex Systems, James S. McDonnell Foundation
+* 2014: Pai Tao Yeh Fellowship, Purdue University
+* 2013: Pai Tao Yeh Fellowship, Purdue University
+* 2011: 2nd Prize of Fifth National Competition of Transport Science and Technology for Students, China
+* 2010: Gammon Scholarship, Tsinghua University
+* 2009: Zheng Ge Ru Scholarship, Tsinghua University
+* Gammon Scholarship, Tsinghua University
 
 Publications
 ======
