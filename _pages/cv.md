@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202011.pdf)
+
 ## Education
 * B.E. in Civil Engineering, Tsinghua University, 2011
 * M.S.E. in Transportation Systems, Civil Engineering, Purdue University, 2012
