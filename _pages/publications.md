@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-A full list of my publications can also be find on my [Google Scholar profile](https://scholar.google.com/citations?user=pDMnGloAAAAJ).
+A full list of my publications can also be found on my [Google Scholar profile](https://scholar.google.com/citations?user=pDMnGloAAAAJ).
 
 
 Journal Publication
