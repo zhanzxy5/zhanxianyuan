@@ -72,10 +72,16 @@ redirect_from:
 
 
 ## Publications
-  <ul>{% for post in site.publications %}
+### Journal Publications
+  <ul>{% for post in site.publications_journal %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+### Conference Proceedings
+  <ul>{% for post in site.publications_conference %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
