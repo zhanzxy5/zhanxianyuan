@@ -179,7 +179,16 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publications_journal:
+    output: true
+    permalink: /:collection/:path/
+  publications_conference:
+    output: true
+    permalink: /:collection/:path/
+  publications_book:
+    output: true
+    permalink: /:collection/:path/
+  publications_thesis:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -231,10 +240,37 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _publications_journal
   - scope:
       path: ""
-      type: publications
+      type: publications_journal
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+ # _publications_conference
+  - scope:
+      path: ""
+      type: publications_conference
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+   # _publications_book
+  - scope:
+      path: ""
+      type: publications_book
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+   # _publications_thesis
+  - scope:
+      path: ""
+      type: publications_thesis
     values:
       layout: single
       author_profile: true

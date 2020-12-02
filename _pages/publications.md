@@ -21,19 +21,19 @@ Journal Publication
 Conference Paper
 ---
 
-{% for post in site.publication_conference reversed %}
+{% for post in site.publications_conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Book Chapters
 ---
 
-{% for post in site.publication_book reversed %}
+{% for post in site.publications_book reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Theses
 ---
-{% for post in site.publication_thesis reversed %}
+{% for post in site.publications_thesis reversed %}
   {% include archive-single.html %}
 {% endfor %}
