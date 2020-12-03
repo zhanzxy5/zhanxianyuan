@@ -74,7 +74,13 @@ redirect_from:
 
 
 ## 发表论文
-  <ul>{% for post in site.publications %}
+### 期刊论文
+  <ul>{% for post in site.publications_journal %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+### 会议论文
+  <ul>{% for post in site.publications_conference %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
