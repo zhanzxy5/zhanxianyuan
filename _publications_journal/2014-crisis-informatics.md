@@ -2,7 +2,7 @@
 title: "Exploring Crisis Informatics Using Social Media Data: A Study on 2013 Oklahoma Tornado"
 collection: publications_journal
 permalink: /publication/2014-crisis-informatics
-excerpt: ""
+excerpt: "Published in Transportation Research Record, 2014"
 date: 2014-1-1
 venue: 'Transportation Research Record'
 paperurl: 'https://journals.sagepub.com/doi/10.3141/2459-13'
