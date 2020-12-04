@@ -6,7 +6,7 @@ excerpt: "Published in Proceedings of the 2nd ACM SIGKDD International Workshop 
 date: 2013-8-1
 venue: 'Proceedings of the 2nd ACM SIGKDD International Workshop on Urban Computing'
 paperurl: ''
-citation: 'Hasan, S., <b>Zhan, X.</b>, and Ukkusuri, S. V. Understanding Urban Human Activity Patterns Using Large-scale Location-based Data from Online Social Media. <i>Proceedings of the 2nd ACM SIGKDD International Workshop on Urban Computing</i>, 2013.'
+citation: 'Hasan, S., <b>Zhan, X.</b>, and Ukkusuri, S. V. Understanding Urban Human Activity Patterns Using Large-scale Location-based Data from Online Social Media. <i>Proceedings of the 2nd ACM SIGKDD International Workshop on Urban Computing</i>, August, 2013.'
 ---
 
 Abstract
