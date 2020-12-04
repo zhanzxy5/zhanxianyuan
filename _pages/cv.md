@@ -73,17 +73,17 @@ redirect_from:
 
 ## Publications
 ### Journal Publications
-  <ul>{% for post in site.publications_journal %}
+  <ul>{% for post in site.publications_journal reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ### Conference Proceedings
-  <ul>{% for post in site.publications_conference %}
+  <ul>{% for post in site.publications_conference reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Talks
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 

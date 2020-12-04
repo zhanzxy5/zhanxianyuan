@@ -75,17 +75,17 @@ redirect_from:
 
 ## 发表论文
 ### 期刊论文
-  <ul>{% for post in site.publications_journal %}
+  <ul>{% for post in site.publications_journal reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ### 会议论文
-  <ul>{% for post in site.publications_conference %}
+  <ul>{% for post in site.publications_conference reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## 主题演讲
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
