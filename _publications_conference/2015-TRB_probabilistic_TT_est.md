@@ -1,5 +1,5 @@
 ---
-title: "Characterizing Urban Dynamics Using Large Scale Taxicab Data"
+title: "A Probabilistic Urban Link Travel Time Estimation Model Using Large-scale Taxi Trip Data"
 collection: publications_conference
 permalink: /publication/2015-TRB_probabilistic_TT_est
 excerpt: "Published in Proceedings of 94nd Transportation Research Board Meeting, 2015. "
