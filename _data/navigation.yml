@@ -24,5 +24,5 @@ main:
   - title: "中文简介"
     url: /cv-CN/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
