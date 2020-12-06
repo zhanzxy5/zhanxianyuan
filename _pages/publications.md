@@ -31,8 +31,8 @@ Peer Reviewed Book Chapters
   {% include archive-single.html %}
 {% endfor %}
 
-Theses
+<!-- Theses
 ---
 {% for post in site.publications_thesis reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
