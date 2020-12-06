@@ -15,4 +15,4 @@ Understanding urban dynamics is of fundamental importance for the efficient oper
 two stages: an exponential distribution with short trips and a truncated power law distribution for longer trips. The result indicates that the taxi trip may not fully represent human mobility and is heavily affected by trip expenses and the urban form and geography.
 
 ---
-[Download the paper](http://zhanxianyuan.xyz/files/Characterizing_urban_dynamics.pdf)
+[Download the chapter](http://zhanxianyuan.xyz/files/Characterizing_urban_dynamics.pdf)

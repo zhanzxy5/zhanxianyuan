@@ -83,6 +83,11 @@ redirect_from:
   <ul>{% for post in site.publications_conference reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+### 书籍章节
+  <ul>{% for post in site.publications_book reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 ## 主题演讲
   <ul>{% for post in site.talks reversed%}

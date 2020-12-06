@@ -82,6 +82,11 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+### Peer Reviewed Book Chapters
+  <ul>{% for post in site.publications_book reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ## Talks
   <ul>{% for post in site.talks reversed%}
     {% include archive-single-talk-cv.html %}
