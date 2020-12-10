@@ -94,6 +94,11 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+## 科研项目
+  <ul>{% for post in site.projects reversed%}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 ## 专业期刊及会议审稿人
 ### 期刊审稿人
 * PLOS ONE

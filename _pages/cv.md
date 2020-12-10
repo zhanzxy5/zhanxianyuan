@@ -92,6 +92,11 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+## Research Projects
+  <ul>{% for post in site.projects reversed%}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 ## Professional Activities
 ### Reviewer of Journals
 * PLOS ONE
