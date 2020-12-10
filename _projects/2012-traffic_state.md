@@ -2,7 +2,7 @@
 title: "Project 1"
 collection: projects
 type: "research projects"
-permalink: /project/2020-spring-projects-1
+permalink: /project/2012-traffic_state
 venue: "University 1, Department"
 date: 2020-01-01
 location: "City, Country"

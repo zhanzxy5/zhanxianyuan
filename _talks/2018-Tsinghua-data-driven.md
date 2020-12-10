@@ -3,7 +3,7 @@ title: "Data-driven Methods in Urban Applications: New Problems, New Directions 
 collection: talks
 type: "Talk"
 permalink: /talks/2018-Tsinghua-data-driven
-venue: "Invited talk at Tsinghua University"
+venue: "Tsinghua University"
 date: 2018-12-01
 location: "Beijing, China"
 ---

@@ -3,7 +3,7 @@ title: "Data-driven Methods in Urban Transportation Applications"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-Tsinghua-data-driven
-venue: "Invited talk at Tsinghua University"
+venue: "Tsinghua University"
 date: 2017-09-01
 location: "Beijing, China"
 ---
