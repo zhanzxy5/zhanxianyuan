@@ -1,5 +1,5 @@
 ---
-title: "{A Bayesian Mixture Model for Short-term Average Link Travel Time Estimation Using Large-scale Limited Information Trip-based Data"
+title: "A Bayesian Mixture Model for Short-term Average Link Travel Time Estimation Using Large-scale Limited Information Trip-based Data"
 collection: talks
 type: "Talk"
 permalink: /talks/2015-informs-2
