@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202011.pdf)
+[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202012.pdf)
 
 ## Education
 * B.E. in Civil Engineering, Tsinghua University, 2011
