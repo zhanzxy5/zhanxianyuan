@@ -3,7 +3,7 @@ title: "Real Time Link Travel Time Estimation Using License-plate Recognition Da
 collection: talks
 type: "Talk"
 permalink: /talks/2013-informs-1
-venue: "Minneapolis, Minnesota"
+venue: "INFORMS 2013"
 date: 2013-10-01
 location: "Minneapolis, Minnesota"
 ---
