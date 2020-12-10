@@ -121,8 +121,26 @@ redirect_from:
 * China Conference on Data Mining (CCDM)
 
 ## Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Courses as Teaching Assistant at Purdue
+* <b>CE 597</b> (Fall 2015): The Science and Business of Logistics Systems
+* <b>CE 398</b> (Spring 2013): Introduction to Civil Engineering System Design
   
+### Co-Instructor of a Summer Course, Tongji University
+* <b>Summer Course</b>: Big Data Transportation Analytics
+
+### Instructor at Workshop
+* Synthesis Workshop on “Dynamics of Structure and Functions of Complex Networks”, Jun. - Jul. 2015, Korea University, Seoul, South Korea
+
+### Supervised Exchange Undergraduate Students at Purdue
+* Jingxing Wang (Jan. - Feb. 2015), from Tsinghua University, China
+* Xiaodong Qian (Jun. - Sep. 2015), from Tsinghua University, China
+* Victorial Mutran (Jul. - Aug. 2015), from Universidade do Estado do Pará, Brazil
+
+### Supervised Interns at Microsoft Research Asia
+* Huilin Qin (2017-2018), PhD student at Xidian University, China
+
+### Supervised Interns at JD Intelligent Cities Research
+* Yixian Li (2018), Master student at Northeastern University, China
+* Huilin Qin (2018-2020), PhD student at Xidian University, China
+* Haoran Xu (2018-2020), Master student at Xidian University, China
 

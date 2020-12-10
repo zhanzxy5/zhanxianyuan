@@ -123,8 +123,26 @@ redirect_from:
 * China Conference on Data Mining (CCDM)
 
 ## 教学经验
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### 在普渡大学的助教课程
+* <b>CE 597</b> (2015秋季学期): The Science and Business of Logistics Systems
+* <b>CE 398</b> (2013春季学期): Introduction to Civil Engineering System Design
   
+### 同济大学夏季课程讲师
+* <b>夏季课程</b>: Big Data Transportation Analytics，2016年6月，同济大学
+
+### 研讨会讲师
+* Synthesis Workshop on “Dynamics of Structure and Functions of Complex Networks”, 2015年6月-7月, 高丽大学，韩国首尔
+
+### 指导本科交流学生（普渡大学）
+* 王靖兴 (2015/01-02)，清华大学寒假交流本科生
+* 钱小东 (2013/07-09)，清华大学暑期交流本科生
+* Victorial Mutran (2012/07-09), 巴西Universidade do Estado do Pará暑期交流本科生
+
+### 指导实习生（微软亚洲研究院）：
+* 秦慧琳(2017-2018)，西安电子科技大学博士生
+
+### Supervised Interns at JD Intelligent Cities Research
+* 秦慧琳 (2018-2020)，西安电子科技大学博士生
+* 徐浩然 (2018-2020)，西安电子科技大学硕士生
+* 李一贤 (2018)，东北大学硕士生
 
