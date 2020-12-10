@@ -12,10 +12,10 @@ redirect_from:
 [Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202012.pdf)
 
 ## Education
-* B.E. in Civil Engineering, Tsinghua University, 2011
-* M.S.E. in Transportation Systems, Civil Engineering, Purdue University, 2012
-* M.S. in Computer Science, Purdue University, 2016
 * Ph.D in Transportation Systems, Civil Engineering, Purdue University, 2017
+* M.S. in Computer Science, Purdue University, 2016
+* M.S.E. in Transportation Systems, Civil Engineering, Purdue University, 2012
+* B.E. in Civil Engineering, Tsinghua University, 2011
 
 ## Work experience
 * 2019/01 - Present: Data Scientist, Senior Researcher

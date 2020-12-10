@@ -18,3 +18,5 @@ We propose a new framework for modeling the evolution of functional failures and
 [Download the paper](http://zhanxianyuan.xyz/files/Vertex_Split-PRE.pdf)
 
 [Download supplementary material](http://zhanxianyuan.xyz/files/Vertex_Split-PRE-SI.pdf)
+
+[Download dataset](https://github.com/zhanzxy5/VSR-dataset)
