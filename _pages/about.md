@@ -21,6 +21,6 @@ Research Interests
 Recent Activities
 ---
 * <b>Dec. 2020</b> Our new paper "[Robust Spatio-Temporal Purchase Prediction via Deep Meta Learning](http://zhanxianyuan.xyz/publication/2021-AAAI_purchase)" has been accepted in AAAI 2021.
-* <b>Oct. 2020</b> Talk at IEEE Services - Industry Symposium: "[Application of Deep Reinforcement Learning in Control Optimization of Thermal Power Plants](http://zhanxianyuan.xyz/talks/2020-IEEE-Services".
+* <b>Oct. 2020</b> Talk at IEEE Services - Industry Symposium: "[Application of Deep Reinforcement Learning in Control Optimization of Thermal Power Plants](http://zhanxianyuan.xyz/talks/2020-IEEE-Services)".
 * <b>Jun. 2020</b> New paper "[Link-based traffic state estimation and prediction for arterial networks using license-plate recognition data](http://zhanxianyuan.xyz/publication/2020-Network-LPR-PartC)" published on Transportation Research Part C: Emerging Technologies is now online.
-* <b>Jan. 2020</b> Our project "(Artificial Intelligence-based Optimization System for Thermal Power Generating Units)[http://zhanxianyuan.xyz/project/2018-thermalOpt]" has won <i>2019 Synced Machine Intelligence Awards: 30 Best AI Use Cases of the Year</i> (Ranked #3).
+* <b>Jan. 2020</b> Our project "[Artificial Intelligence-based Optimization System for Thermal Power Generating Units](http://zhanxianyuan.xyz/project/2018-thermalOpt)" has won <i>2019 Synced Machine Intelligence Awards: 30 Best AI Use Cases of the Year</i> (Ranked #3).
