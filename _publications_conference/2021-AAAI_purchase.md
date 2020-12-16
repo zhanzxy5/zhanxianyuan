@@ -6,7 +6,7 @@ excerpt: "Published in Thirty-Fifth AAAI Conference on Artificial Intelligence (
 date: 2021-2-2
 venue: 'Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI2021)'
 paperurl: ''
-citation: 'Qin, H., <b>Zhan, X.</b>, Ke, S., Yang, X., Xu, H., and Zheng, Y. Robust Spatio-Temporal Purchase Prediction via Deep Meta Learning. Accepted in <i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI2021)</i>.'
+citation: 'Qin, H., Ke, S., Yang, X., Xu, H., <b>Zhan, X.</b> and Zheng, Y. Robust Spatio-Temporal Purchase Prediction via Deep Meta Learning. Accepted in <i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI2021)</i>.'
 ---
 
 Abstract
