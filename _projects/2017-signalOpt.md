@@ -11,5 +11,9 @@ location: "Beijing, China"
 
 ---
 
-Developing a data-driven deep reinforcement learning framework for urban traffic signal optimization. One patent granted.
+Developing a data-driven deep reinforcement learning framework for urban traffic signal optimization.
 
+
+Patents Granted
+---
+* <b>CN108805348B</b>: 	一种交叉口信号配时控制优化的方法和装置。Inventor：<b>詹仙园</b>,郑宇，2020.06.23。
