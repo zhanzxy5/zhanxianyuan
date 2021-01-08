@@ -20,7 +20,7 @@ Research Interests
 
 Recent News and Activities
 ---
-* <b>Jan. 2021:</b> Media coverage of our work on optimizing thermal power plant using AI by <i>South China Morning Post</i>: "[JD builds AI control system that can save China’s thermal power plants billions and reduce pollution](https://www.scmp.com/tech/innovation/article/3114030/jd-builds-ai-control-system-can-save-chinas-thermal-power-plants)".
+* <b>Jan. 2021:</b> Media coverage of our work on [optimizing thermal power plant using AI](http://zhanxianyuan.xyz/project/2018-thermalOpt) by <i>South China Morning Post</i>: "[JD builds AI control system that can save China’s thermal power plants billions and reduce pollution](https://www.scmp.com/tech/innovation/article/3114030/jd-builds-ai-control-system-can-save-chinas-thermal-power-plants)".
 * <b>Dec. 2020:</b> Our new paper "[Robust Spatio-Temporal Purchase Prediction via Deep Meta Learning](http://zhanxianyuan.xyz/publication/2021-AAAI_purchase)" has been accepted in AAAI 2021.
 * <b>Oct. 2020:</b> Talk at IEEE Services - Industry Symposium: "[Application of Deep Reinforcement Learning in Control Optimization of Thermal Power Plants](http://zhanxianyuan.xyz/talks/2020-IEEE-Services)".
 * <b>Jun. 2020:</b> New paper "[Link-based traffic state estimation and prediction for arterial networks using license-plate recognition data](http://zhanxianyuan.xyz/publication/2020-Network-LPR-PartC)" published on Transportation Research Part C: Emerging Technologies is now online.
