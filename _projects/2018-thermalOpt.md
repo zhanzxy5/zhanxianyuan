@@ -16,8 +16,8 @@ Research project manager for developing a deep reinforcement learning model and 
 
 Patents Granted
 ---
-* <b>CN110673485B</b>: 用于燃烧控制的模型训练方法、装置、电子设备以及介质。Inventor：霍雨森,<b>詹仙园</b>,张玥,徐浩然,邓欣,郑宇，2020.11.24。
-* <b>CN110673478B</b>: 磨煤机的控制方法、装置、系统及存储介质。Inventor：朱翔宇,<b>詹仙园</b>,张玥,徐浩然,邓欣,郑宇，2020.09.29。
+* <b>CN110673485B</b>: 用于燃烧控制的模型训练方法、装置、电子设备以及介质。Inventor：霍雨森, <b>詹仙园</b>, 张玥, 徐浩然, 邓欣, 郑宇，2020.11.24。
+* <b>CN110673478B</b>: 磨煤机的控制方法、装置、系统及存储介质。Inventor：朱翔宇, <b>詹仙园</b>, 张玥, 徐浩然, 邓欣, 郑宇，2020.09.29。
 
 
 Media Coverages

@@ -15,4 +15,4 @@ Research project manager for developing a collective anomaly detection algorithm
 
 Patents Granted
 ---
-* <b>CN110490132B</b>: 数据处理方法和装置。Inventor：<b>詹仙园</b>,秦慧玲,郑宇，2020.09.29。
+* <b>CN110490132B</b>: 数据处理方法和装置。Inventor：<b>詹仙园</b>, 秦慧玲, 郑宇，2020.09.29。
