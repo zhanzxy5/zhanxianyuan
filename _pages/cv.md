@@ -18,8 +18,8 @@ redirect_from:
 * B.E. in Civil Engineering, Tsinghua University, 2011
 
 ## Work experience
-* 2019/01 - Present: Data Scientist, Senior Researcher
-  * JD Digits
+* 2018/01 - Present: Data Scientist, Senior Researcher
+  * JD Technology
   * JD iCity, JD Intelligent Cities Research
   * Beijing, China
 
