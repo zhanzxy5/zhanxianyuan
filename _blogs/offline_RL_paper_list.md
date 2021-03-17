@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Offline RL Paper List"
+title: "Offline RL Paper List (continued updating)"
 permalink: /blog/paper-list
+date: 2021-3-17
 author_profile: true
-
 ---
-# Offline RL papers (continued updating)
 
 ## Classic offline RL papers
 * Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems
