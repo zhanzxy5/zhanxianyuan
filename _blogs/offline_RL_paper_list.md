@@ -28,8 +28,9 @@ Offline RL paper list.
 
 
 ## Recent papers on offline RL (2020-2021)
-| Title    | Sub-area | Venue    | Theory/Reproducible | Summary       |
-| -----    | ------   | ------   | --------            | -----------   |
+
+| Title    | Sub-area | Venue    | Theory/Reproducibility | Summary   |
+| ---------------    | ------   | ------   | --------   | ---------------------   |
 |BRAC+: Going Deeper with Behavior Regularized Offline Reinforcement Learning | Model-Free | ICLR2021(reject) |  | Improving behavior regularized offline reinforcement learning.|
 |Offline Policy Optimization with Variance Regularization | Model-Free | ICLR2021(reject) |  | Variance regularization based on stationary state-action distribution corrections in offline policy optimization.|
 |Uncertainty Weighted Offline Reinforcement Learning | Model-Free | ICLR2021(reject) |  | A simple and effective uncertainty weighted training mechanism for stabilizing offline reinforcement learning.|
