@@ -6,6 +6,9 @@ date: 2021-3-17
 author_profile: true
 ---
 
+Offline RL paper list.
+
+---
 ## Classic offline RL papers
 * Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems
 * Off-Policy Deep Reinforcement Learning without Exploration
