@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202012.pdf)
+[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202103.pdf)
 
 ## Education
 * Ph.D in Transportation Systems, Civil Engineering, Purdue University, 2017
@@ -98,6 +98,9 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Professional Activities
+### Member of Editorial Board
+* Frontiers in Built Environment - Transportation and Transit Systems: Review Editor
+
 ### Reviewer of Journals
 * PLOS ONE
 * ACM Transactions on Intelligent Systems and Technology (TIST)
