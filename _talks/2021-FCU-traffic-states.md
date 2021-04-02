@@ -9,4 +9,4 @@ location: "online"
 ---
 
 
-Network-Wide Traffic State Inference Using Emerging Urban Data Sources. Guest lecture at University of Central Florida. March 2021, Beijing, China.
+Network-Wide Traffic State Inference Using Emerging Urban Data Sources. Guest lecture at University of Central Florida. March 2021, online.
