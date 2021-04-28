@@ -110,6 +110,8 @@ redirect_from:
 * IEEE Transactions on Big Data (TBD)
 * IEEE Transactions on Knowledge Discovery from Data (TKDD)
 * IEEE Transactions on Intelligent Transportation Systems (ITS)
+* * IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
+* IEEE Signal Processing Letters
 * IEEE Access
 * Expert Systems With Applications
 * Transportation Research Part B: Methodological
