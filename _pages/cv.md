@@ -126,6 +126,7 @@ redirect_from:
 
 ### Reviewer of Conferences
 * AAAI Conference on Artificial Intelligence
+* IEEE International Conference on Intelligent Transportation (ITSC)
 * IEEE Conference on Decision and Control
 * Transportation Research Board Annual Meeting
 * China Conference on Data Mining (CCDM)
