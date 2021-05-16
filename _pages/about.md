@@ -20,7 +20,7 @@ Research Interests
 
 Recent News and Activities
 ---
-* <b>May. 2021:</b> Our latest paper: "Network-Wide Traffic States Imputation Using Self-interested Coalitional Learning" has been accepted in KDD 2021.
+* <b>May. 2021:</b> Our latest paper: "[Network-Wide Traffic States Imputation Using Self-interested Coalitional Learning](http://zhanxianyuan.xyz/publication/2021-KDD_imputation)" has been accepted in KDD 2021.
 * <b>Feb. 2021:</b> Our latest paper on [optimizing thermal power generating units using offline RL](http://zhanxianyuan.xyz/project/2018-thermalOpt) is now on [arXiv](https://arxiv.org/abs/2102.11492).
 * <b>Jan. 2021:</b> Media coverage of our work on [optimizing thermal power plant using AI](http://zhanxianyuan.xyz/project/2018-thermalOpt) by <i>South China Morning Post</i>: "[JD builds AI control system that can save China’s thermal power plants billions and reduce pollution](https://www.scmp.com/tech/innovation/article/3114030/jd-builds-ai-control-system-can-save-chinas-thermal-power-plants)".
 * <b>Dec. 2020:</b> Our new paper "[Robust Spatio-Temporal Purchase Prediction via Deep Meta Learning](http://zhanxianyuan.xyz/publication/2021-AAAI_purchase)" has been accepted in AAAI 2021.
