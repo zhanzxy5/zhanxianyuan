@@ -6,7 +6,7 @@ excerpt: "Published in SIGKDD 2021 (KDD2021). "
 date: 2021-5-16
 venue: 'Twenty-Seventh ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2021)'
 paperurl: ''
-citation: 'Qin, H., <b>Zhan, X.</b>, Li, Y., Yang, X. and Zheng, Y. Network-Wide Traffic States Imputation Using Self-interested Coalitional Learning. Accepted in <i>Twenty-Seventh ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2021)</i>.'
+citation: 'Qin, H., <b>Zhan, X.</b>, Li, Y., Yang, X. and Zheng, Y. Network-Wide Traffic States Imputation Using Self-interested Coalitional Learning. In <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’21)</i>, August 14–18, 2021, Virtual Event, Singapore. ACM, New York, NY, USA. https://doi.org/10.1145/3447548.3467424.'
 ---
 
 Abstract
