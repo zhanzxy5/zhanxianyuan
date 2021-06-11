@@ -9,4 +9,4 @@ location: "online"
 ---
 
 
-Offline RL and Its Potential Applications in Healthcare Decision Making. Guest lecture at DeeCaMP 2021. June 2021, online.
+Offline RL and Its Potential Applications in Healthcare Decision Making. Guest lecture at DeeCamp 2021. June 2021, online.
