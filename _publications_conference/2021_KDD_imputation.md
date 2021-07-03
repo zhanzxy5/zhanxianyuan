@@ -1,7 +1,7 @@
 ---
 title: "Network-Wide Traffic States Imputation Using Self-interested Coalitional Learning"
 collection: publications_conference
-permalink: /publication/2021-KDD_imputation
+permalink: /publication/2021_KDD_imputation
 excerpt: "Published in SIGKDD 2021 (KDD2021). "
 date: 2021-5-16
 venue: 'Twenty-Seventh ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2021)'
