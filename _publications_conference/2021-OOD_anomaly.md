@@ -6,7 +6,7 @@ excerpt: "Published in 6th Outlier Detection and Description Workshop. "
 date: 2021-7-3
 venue: 'KDD2021 Workshop on Outlier Detection and Description (OOD)'
 paperurl: ''
-citation: 'Qin, H., <b>Zhan, X.</b>, and Zheng, Y. CSCAD: Correlation Structure-based Collective Anomaly Detection in Complex System. In <i>KDD'21 Workshop on Outlier Detection and Description (OOD)</i>, August 15, 2021, Virtual Event, Singapore.'
+citation: 'Qin, H., <b>Zhan, X.</b>, and Zheng, Y. CSCAD: Correlation Structure-based Collective Anomaly Detection in Complex System. In <i>KDD2021 Workshop on Outlier Detection and Description (OOD)</i>, August 15, 2021, Virtual Event, Singapore.'
 ---
 
 Abstract
