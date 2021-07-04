@@ -1,7 +1,7 @@
 ---
 title: "CSCAD: Correlation Structure-based Collective Anomaly Detection in Complex System"
 collection: publications_conference
-permalink: /publication/2021_OOD_anomaly
+permalink: /publication/2021-OOD_anomaly
 excerpt: "Published in 6th Outlier Detection and Description Workshop. "
 date: 2021-7-3
 venue: 'KDD'21 Workshop on Outlier Detection and Description (OOD)'
