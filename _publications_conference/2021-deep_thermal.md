@@ -1,5 +1,5 @@
 ---
-title: "DeepThermal: Combustion Optimization forThermal Power Generating Units Using Offline Reinforcement Learningg"
+title: "DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning"
 collection: publications_conference
 permalink: /publication/2021-deep_thermal
 excerpt: "Published in Reinforcement Learning for Real Life Workshop @ ICML 2021. "
