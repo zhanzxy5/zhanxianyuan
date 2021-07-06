@@ -8,19 +8,18 @@ author_profile: true
 A full list of my publications can also be found on my [Google Scholar profile](https://scholar.google.com/citations?user=pDMnGloAAAAJ).
 
 
-Journal Publications
+Conference Proceedings
 ---
 {% include base_path %}
 
-{% for post in site.publications_journal reversed %}
+{% for post in site.publications_conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-
-Conference Proceedings
+Journal Publications
 ---
 
-{% for post in site.publications_conference reversed %}
+{% for post in site.publications_journal reversed %}
   {% include archive-single.html %}
 {% endfor %}
 

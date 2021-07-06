@@ -74,13 +74,13 @@ redirect_from:
 
 
 ## 发表论文
-### 期刊论文
-  <ul>{% for post in site.publications_journal reversed%}
+### 会议论文
+  <ul>{% for post in site.publications_conference reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-### 会议论文
-  <ul>{% for post in site.publications_conference reversed%}
+### 期刊论文
+  <ul>{% for post in site.publications_journal reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
