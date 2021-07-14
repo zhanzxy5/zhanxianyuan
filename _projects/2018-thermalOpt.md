@@ -12,8 +12,6 @@ location: "Beijing, China"
 ---
 Research project manager for developing a deep reinforcement learning model and system to optimize power generation efficiency for thermal power generating units in power plants. This research has already finished software productization and been deployed in five power plants in China.
 
-[More information here](https://www.jddglobal.com/products/thermal-power)
-
 [Paper on arXiv](https://arxiv.org/abs/2102.11492)
 
 Patents Granted

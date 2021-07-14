@@ -6,7 +6,7 @@ excerpt: "Published in Reinforcement Learning for Real Life Workshop @ ICML 2021
 date: 2021-7-6
 venue: 'Reinforcement Learning for Real Life Workshop @ ICML 2021'
 paperurl: ''
-citation: '<b>Zhan, X.</b>, Xu, H., Zhang, Y., Zhu, X. and Yin, H. DeepThermal: Combustion Optimization forThermal Power Generating Units Using Offline Reinforcement Learning. In <i>Reinforcement Learning for Real Life Workshop @ ICML 2021</i>.'
+citation: '<b>Zhan, X.</b>, Xu, H., Zhang, Y., Zhu, X. and Yin, H. DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning. In <i>Reinforcement Learning for Real Life Workshop @ ICML 2021</i>.'
 ---
 
 Abstract
