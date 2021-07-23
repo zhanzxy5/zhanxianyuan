@@ -144,9 +144,9 @@ redirect_from:
 * DeeCamp 2021, Mentor, Jun. - Aug. 2021., Beijing
 
 ### Supervised Interns at JD Intelligent Cities Research
+* Huilin Qin (2018-2021), PhD student at Xidian University, China
+* Haoran Xu (2018-2021), Master student at Xidian University, China
 * Yixian Li (2018), Master student at Northeastern University, China
-* Huilin Qin (2018-2020), PhD student at Xidian University, China
-* Haoran Xu (2018-2020), Master student at Xidian University, China
 
 ### Supervised Interns at Microsoft Research Asia
 * Huilin Qin (2017-2018), PhD student at Xidian University, China

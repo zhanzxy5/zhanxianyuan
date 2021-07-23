@@ -8,10 +8,14 @@ author_profile: true
 
 {% include base_path %}
 
+## Students and Supervised Interns at Tsinghua University
+* Jianxiong Li (2021-present), PhD student at Tsinghua University, China
+* Yong Wang (2021-present), PhD student at Beijing Institue of Technology, China
+
 ## Supervised Interns at JD Intelligent Cities Research
 * Yixian Li (2018), Master student at Northeastern University, China
-* Huilin Qin (2018-2020), PhD student at Xidian University, China
-* Haoran Xu (2018-2020), Master student at Xidian University, China
+* Huilin Qin (2018-2021), PhD student at Xidian University, China
+* Haoran Xu (2018-2021), Master student at Xidian University, China
 
 ## Supervised Interns at Microsoft Research Asia
 * Huilin Qin (2017-2018), PhD student at Xidian University, China
