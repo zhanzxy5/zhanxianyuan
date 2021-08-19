@@ -109,6 +109,7 @@ redirect_from:
 * IEEE Transactions on Knowledge Discovery from Data (TKDD)
 * IEEE Transactions on Intelligent Transportation Systems (ITS)
 * IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
+* IEEE Transactions on Mobile Computing (TMC)
 * IEEE Signal Processing Letters
 * IEEE Access
 * Expert Systems With Applications
@@ -142,6 +143,10 @@ redirect_from:
 ### Instructor at Workshop
 * Synthesis Workshop on “Dynamics of Structure and Functions of Complex Networks”, Jun. - Jul. 2015, Korea University, Seoul, South Korea
 * DeeCamp 2021, Mentor, Jun. - Aug. 2021., Beijing
+
+### Students and Supervised Interns at Tsinghua University
+* Jianxiong Li (2021-present), PhD student at Tsinghua University, China
+* Yong Wang (2021-present), PhD student at Beijing Institue of Technology, China
 
 ### Supervised Interns at JD Intelligent Cities Research
 * Huilin Qin (2018-2021), PhD student at Xidian University, China

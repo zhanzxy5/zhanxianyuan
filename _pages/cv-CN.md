@@ -110,7 +110,8 @@ redirect_from:
 * IEEE Transactions on Big Data (TBD)
 * IEEE Transactions on Knowledge Discovery from Data (TKDD)
 * IEEE Transactions on Intelligent Transportation Systems (ITS)
-* * IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
+* IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
+* IEEE Transactions on Mobile Computing (TMC)
 * IEEE Signal Processing Letters
 * IEEE Access
 * Expert Systems With Applications
@@ -137,7 +138,7 @@ redirect_from:
 ### 在普渡大学的助教课程
 * <b>CE 597</b> (2015秋季学期): The Science and Business of Logistics Systems
 * <b>CE 398</b> (2013春季学期): Introduction to Civil Engineering System Design
-  
+
 ### 同济大学夏季课程讲师
 * <b>夏季课程</b>: Big Data Transportation Analytics，2016年6月，同济大学
 
@@ -145,7 +146,11 @@ redirect_from:
 * Synthesis Workshop on “Dynamics of Structure and Functions of Complex Networks”, 2015年6月-7月, 高丽大学，韩国首尔
 * DeeCamp 2021, “AI赋能的医疗与健康”赛道导师，2021年6月-8月，北京
 
-### Supervised Interns at JD Intelligent Cities Research
+### 指导学生及实习生（清华大学智能产业研究院AIR）
+* 李健雄（2021-至今），清华大学博士生
+* 王勇（2021-至今），北京理工大学博士生
+
+### 指导实习生（京东智能城市研究院）
 * 秦慧琳 (2018-2021)，西安电子科技大学博士生
 * 徐浩然 (2018-2021)，西安电子科技大学硕士生
 * 李一贤 (2018)，东北大学硕士生
