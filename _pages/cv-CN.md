@@ -102,6 +102,7 @@ redirect_from:
 ## 专业期刊及会议审稿人
 ### 期刊编委
 * •	Frontiers in Built Environment - Transportation and Transit System: Review Editor
+* * Journal of Big Data Analytics in Transportation
 
 ### 期刊审稿人
 * PLOS ONE

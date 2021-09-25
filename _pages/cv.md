@@ -100,6 +100,8 @@ redirect_from:
 ## Professional Activities
 ### Member of Editorial Board
 * Frontiers in Built Environment - Transportation and Transit Systems: Review Editor
+* Journal of Big Data Analytics in Transportation
+
 
 ### Reviewer of Journals
 * PLOS ONE
