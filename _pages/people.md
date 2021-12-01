@@ -14,7 +14,7 @@ author_profile: true
 * Jiang Li (2021-present), Master student at Tsinghua University
 * Haoyi Niu (2021-present), Undergraduate student at Tsinghua University, China
 * Weiye Xi (2021-present), Undergraduate student at Tsinghua University, China
-* Yong Wang (2021), PhD student at Beijing Institue of Technology, China
+* Yong Wang (2021), PhD student at Beijing Institute of Technology, China
 
 ## Supervised Interns at JD Intelligent Cities Research
 * Yixian Li (2018), Master student at Northeastern University, China
