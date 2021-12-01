@@ -148,7 +148,11 @@ redirect_from:
 
 ### Students and Supervised Interns at Tsinghua University
 * Jianxiong Li (2021-present), PhD student at Tsinghua University, China
-* Yong Wang (2021-present), PhD student at Beijing Institue of Technology, China
+* Peng Cheng (2021-present), PhD student at Beijing Jiaotong University, China
+* Jiang Li (2021-present), Master student at Tsinghua University
+* Haoyi Niu (2021-present), Undergraduate student at Tsinghua University, China
+* Weiye Xi (2021-present), Undergraduate student at Tsinghua University, China
+* Yong Wang (2021), PhD student at Beijing Institue of Technology, China
 
 ### Supervised Interns at JD Intelligent Cities Research
 * Huilin Qin (2018-2021), PhD student at Xidian University, China
