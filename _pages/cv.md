@@ -67,6 +67,9 @@ redirect_from:
 * 2018 - Present: Committee Member
   * Technical Committee on Artificial Intelligence & Pattern Recognition of China Computer Federation (CCF-AI)
 
+* 2020 - Present: Member
+  * Institute of Electrical and Electronics Engineers (IEEE)
+
 * 2018 - Present: Member
   * China Computer Federation (CCF)
 
