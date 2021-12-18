@@ -27,8 +27,8 @@ main:
   - title: "中文简介"
     url: /cv-CN/
 
-  - title: "Blogs"
-    url: /blogs/
+  # - title: "Blogs"
+  #   url: /blogs/
 
   # - title: "Guide"
   #   url: /markdown/
