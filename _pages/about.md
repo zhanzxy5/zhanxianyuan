@@ -18,6 +18,11 @@ Research Interests
 * Big data analytics in transportation
 * Complex networks
 
+We are hiring!!!
+---
+Our team is looking for student interns/engineers/research assistants of different levels at AIR! If you are interested in the research directions of **offline reinforcement learning** or **urban computing/data-driven transportation modeling**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
+
+
 Recent News and Activities
 ---
 * <b>Dec. 2021:</b> Our two papers "[DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2021-deep_thermal)" and "[Constraints Penalized Q-Learning for Safe Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2021-CPQ)" have been accepted in AAAI 2022.
