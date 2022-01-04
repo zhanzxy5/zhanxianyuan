@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xianyuan Zhan is a research assistant professor at the Institute for AI Industry Research (AIR), Tsinghua University. He received a dual Master's degree in Computer Science and Transportation Engineering, and a PhD degree in Transportation Engineering from Purdue University. Before joining AIR, Dr. Zhan was a data scientist at JD Technology and also a researcher at Microsoft Research Asia (MSRA). Dr. Zhan previously led the research and development of AI-driven industrial system optimization products at JD Technology. He has published more than 30 papers in key journals and conferences in the field of Transportation Engineering and Computer Science. He is also a reviewer for many top transportation and computer science journals and conferences. He is currently a committee member of China Computer Federation-Artificial Intelligence & Pattern Recognition (CCF-AI) Committee. 
+Dr. Xianyuan Zhan is a research assistant professor at the [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn), Tsinghua University. He received a dual Master's degree in Computer Science and Transportation Engineering, and a PhD degree in Transportation Engineering from Purdue University. Before joining AIR, Dr. Zhan was a data scientist at JD Technology and also a researcher at Microsoft Research Asia (MSRA). Dr. Zhan previously led the research and development of AI-driven industrial system optimization products at JD Technology. He has published more than 30 papers in key journals and conferences in the field of Transportation Engineering and Computer Science. He is also a reviewer for many top transportation and computer science journals and conferences. He is currently a committee member of China Computer Federation-Artificial Intelligence & Pattern Recognition (CCF-AI) Committee. 
 
 Research Interests
 ---
@@ -20,7 +20,7 @@ Research Interests
 
 We are hiring!!!
 ---
-Our team is looking for student interns/engineers/research assistants of different levels at AIR! If you are interested in the research directions of **offline reinforcement learning** or **urban computing/data-driven transportation modeling**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
+Our team is looking for student interns/engineers/research assistants of different levels at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **offline reinforcement learning** or **urban computing/data-driven transportation modeling**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
 
 
 Recent News and Activities
