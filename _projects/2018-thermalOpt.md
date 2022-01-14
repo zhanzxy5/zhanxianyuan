@@ -10,9 +10,13 @@ location: "Beijing, China"
 <b>2018-2020</b>: Funded by JD Intelligent Cities Research. 
 
 ---
-Research project manager for developing a deep reinforcement learning model and system to optimize power generation efficiency for thermal power generating units in power plants. This research has already finished software productization and been deployed in five power plants in China.
+Research project manager for developing a deep reinforcement learning model and system to optimize power generation efficiency for the thermal power generating unit (TPGU) in power plants. This research has already finished software productization in JD Technology and been deployed in <b>6</b> power plants and <b>9</b> TPGUs in China!
 
-[Paper on arXiv](https://arxiv.org/abs/2102.11492)
+Papers Published
+---
+* <b>AAAI 2022</b>: [DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2021-deep_thermal)
+* <b>AAAI 2022</b>: [Constraints Penalized Q-Learning for Safe Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2021-CPQ)
+* <b>NeurIPS 2021 Offline RL Workshop </b>: [Model-Based Offline Planning with Trajectory Pruning](http://zhanxianyuan.xyz/publication/2021-MOPP)
 
 Patents Granted
 ---
