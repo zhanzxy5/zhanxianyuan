@@ -112,7 +112,6 @@ redirect_from:
 
 
 ### Reviewer of Journals
-* PLOS ONE
 * ACM Transactions on Intelligent Systems and Technology (TIST)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Big Data (TBD)
@@ -123,12 +122,14 @@ redirect_from:
 * IEEE Signal Processing Letters
 * IEEE Access
 * Expert Systems With Applications
+* Transportation Research Part A: Policy and Practice
 * Transportation Research Part B: Methodological
 * Transportation Research Part C: Emerging Technologies
 * Transportation Research Part D: Transport and Environment
 * Transportmetrica B: Transport Dynamics
 * European Journal of Operational Research
 * Network and Spatial Economics
+* PLOS ONE
 * Transportation
 * Journal of Advanced Transportation
 * Environment and Planning B: Urban Analytics and City Science
@@ -136,11 +137,15 @@ redirect_from:
 * Journal of Physics: Complexity
 
 ### Reviewer of Conferences
-* AAAI Conference on Artificial Intelligence
+* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2022
+* International Conference on Machine Learning (ICML): ICML 2022
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): IROS 2022
+* AAAI Conference on Artificial Intelligence: AAAI 2021
+* China Conference on Data Mining (CCDM): CCDM 2021, 2022
 * IEEE International Conference on Intelligent Transportation (ITSC)
 * IEEE Conference on Decision and Control
 * Transportation Research Board Annual Meeting
-* China Conference on Data Mining (CCDM)
+
 
 ## Teaching
 ### Courses as Teaching Assistant at Purdue
