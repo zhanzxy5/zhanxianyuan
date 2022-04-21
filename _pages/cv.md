@@ -161,6 +161,7 @@ redirect_from:
 
 ### Students and Supervised Interns at Tsinghua University
 * Jianxiong Li (2021-present), PhD student at Tsinghua University, China
+* Wenjia Zhang (2021-present), PhD student at Tsinghua University, China
 * Peng Cheng (2021-present), PhD student at Beijing Jiaotong University, China
 * Jiang Li (2021-present), Master student at Tsinghua University
 * Haoyi Niu (2021-present), Undergraduate student at Tsinghua University, China
