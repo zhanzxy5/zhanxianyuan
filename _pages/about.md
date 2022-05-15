@@ -25,6 +25,7 @@ Our team is looking for student interns/engineers/research assistants of differe
 
 Recent News and Activities
 ---
+* <b>May. 2022:</b> Our paper: "[Discriminator-Weighted Offline Imitation Learning from Suboptimal Demonstrations](http://zhanxianyuan.xyz/publication/2021-DWBC)" has been accepted in ICML 2022.
 * <b>Apr. 2022:</b> Our paper: "[Model-Based Offline Planning with Trajectory Pruning](http://zhanxianyuan.xyz/publication/2022-MOPP)" has been accepted in IJCAI-ECAI 22.
 * <b>Jan. 2022:</b> Our recent paper: "[CSCAD: Correlation Structure-based Collective Anomaly Detection in Complex System](http://zhanxianyuan.xyz/publication/2021-OOD_anomaly)" has been accepted in IEEE Transactions on Knowledge and Data Engineering (TKDE).
 * <b>Dec. 2021:</b> Our two papers "[DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2021-deep_thermal)" and "[Constraints Penalized Q-Learning for Safe Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2021-CPQ)" have been accepted in AAAI 2022.
