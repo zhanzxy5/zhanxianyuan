@@ -11,7 +11,7 @@ redirect_from:
 
 **詹仙园**，博士，清华智能产业研究院助理研究员/助理教授，曾任京东科技数据科学家，微软亚洲研究院副研究员。詹仙园博士的主要学术研究方向为基于离线深度强化学习的数据驱动能源、工业复杂系统控制优化，智能交通系统，城市计算以及复杂网络。总共发表了40余篇国际期刊、会议论文，在交通数据挖掘和城市计算研究方面取得了众多研究成果。其中以第一作者身份在AAAI Conference on Artificial Intelligence (AAAI)、 IEEE Transactions on Knowledge and Data Engineering (TKDE)、IEEE Transactions on Intelligent Transportation Systems (ITS)、Physical Review E、Transportation Research Part C等知名国际会议、期刊发表论文十余篇。詹仙园博士同时也在多个交通和计算机领域的国际专业期刊及会议担任审稿人，并担任中国计算机学会（CCF）人工智能与模式识别专委会（CCF-AI）委员，CCF智能汽车分会执行委员。詹仙园博士主导了京东科技的基于强化学习的火力发电锅炉燃烧优化研发项目，并完成了产品化，并在国内多个电厂推广落地，可实现对火力发电机组的控制优化，帮助提高火力发电效率与污染减排，具有重要的经济、社会和环保价值。该产品与技术在火电行业引起了广泛关注，先后获得人民日报、中国能源报、中国青年报等十多家媒体报道。
 
-[中文简历下载](http://zhanzxy5.github.io/zhanxianyuan/files/Xianyuan_Zhan_RE_202107_CN.pdf)
+<!-- [中文简历下载](http://zhanzxy5.github.io/zhanxianyuan/files/Xianyuan_Zhan_RE_202107_CN.pdf) -->
 
 ## 教育背景
 * 普渡大学：交通工程博士，2017
@@ -143,7 +143,7 @@ redirect_from:
 * AAAI Conference on Artificial Intelligence: AAAI 2021
 * China Conference on Data Mining (CCDM): CCDM 2021, 2022
 * IEEE International Conference on Intelligent Transportation (ITSC)
-* IEEE Conference on Decision and Control
+* IEEE Conferen  ce on Decision and Control
 * Transportation Research Board Annual Meeting
 
 

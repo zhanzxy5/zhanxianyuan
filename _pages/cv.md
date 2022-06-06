@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202201.pdf)
+[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202206.pdf)
 
 ## Education
 * Ph.D in Transportation Systems, Civil Engineering, Purdue University, 2017
@@ -58,6 +58,7 @@ redirect_from:
 * Skill 3 -->
 
 ## Honors & Awards
+* 2022: 3rd Prize of Wu Wen Jun AI Science & Technology Award
 * 2020: 2019 Synced Machine Intelligence Awards: 30 Best AI Use Cases of the Year, SYNCED
 * 2018: Artificial Intelligence Innovation Award, CAIS 2018
 * 2016: James S. McDonnell Foundation (JSMF) Postdoctoral Fellowship Award in Studying Complex Systems, James S. McDonnell Foundation
