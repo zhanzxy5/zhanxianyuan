@@ -82,6 +82,11 @@ redirect_from:
 
 
 ## Publications
+### Preprints
+  <ul>{% for post in site.publications_preprint reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ### Conference Proceedings
   <ul>{% for post in site.publications_conference reversed%}
     {% include archive-single-cv.html %}

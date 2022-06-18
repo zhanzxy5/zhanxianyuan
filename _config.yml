@@ -179,6 +179,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  publications_preprint:
+    output: true
+    permalink: /:collection/:path/
   publications_journal:
     output: true
     permalink: /:collection/:path/
@@ -238,6 +241,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+    # _publications_preprint
+  - scope:
+      path: ""
+      type: publications_preprint
     values:
       layout: single
       author_profile: true

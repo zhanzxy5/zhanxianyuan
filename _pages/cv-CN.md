@@ -82,6 +82,11 @@ redirect_from:
 
 
 ## 发表论文
+### 预印本论文
+  <ul>{% for post in site.publications_preprint reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ### 会议论文
   <ul>{% for post in site.publications_conference reversed%}
     {% include archive-single-cv.html %}
