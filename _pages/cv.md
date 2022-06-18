@@ -58,6 +58,7 @@ redirect_from:
 * Skill 3 -->
 
 ## Honors & Awards
+* 2022: Selected as the "Global Top Chinese Young Scholars in Artificial Intelligence (AI+X)" by Baidu
 * 2022: 3rd Prize of Wu Wen Jun AI Science & Technology Award
 * 2020: 2019 Synced Machine Intelligence Awards: 30 Best AI Use Cases of the Year, SYNCED
 * 2018: Artificial Intelligence Innovation Award, CAIS 2018
