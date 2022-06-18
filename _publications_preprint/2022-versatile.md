@@ -6,7 +6,7 @@ excerpt: "Preprint, under review."
 date: 2022-3-3
 venue: 'arXiv preprint arXiv:2110.11573.'
 paperurl: ''
-citation: 'Wang, G., Niu, H., Zhu, D., Hu, J., <b>Zhan, X., and Zhou, G. A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving. <i>arXiv preprint arXiv:2110.11573</i>.'
+citation: 'Wang, G., Niu, H., Zhu, D., Hu, J., <b>Zhan, X.</b>, and Zhou, G. A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving. <i>arXiv preprint arXiv:2110.11573</i>.'
 ---
 
 Abstract
