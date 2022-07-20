@@ -20,7 +20,7 @@ Research Interests
 
 We are hiring!!!
 ---
-Our team is looking for student interns/engineers/research assistants of different levels at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **offline reinforcement learning** or **urban computing/data-driven transportation modeling**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
+Our team is looking for student interns/research associates/postdocs of different levels at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **offline reinforcement learning** or **decision-making in autonomous driving**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
 
 
 Recent News and Activities
