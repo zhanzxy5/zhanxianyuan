@@ -149,7 +149,7 @@ redirect_from:
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): IROS 2022
 * China Conference on Data Mining (CCDM): CCDM 2021, 2022
 * IEEE International Conference on Intelligent Transportation (ITSC)
-* IEEE Conferen  ce on Decision and Control
+* IEEE Conference on Decision and Control
 * Transportation Research Board Annual Meeting
 
 
