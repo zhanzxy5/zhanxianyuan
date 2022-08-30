@@ -16,14 +16,17 @@ Papers Published
 ---
 * <b>AAAI 2022</b>: [DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2021-deep_thermal)
 * <b>AAAI 2022</b>: [Constraints Penalized Q-Learning for Safe Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2021-CPQ)
-* <b>NeurIPS 2021 Offline RL Workshop </b>: [Model-Based Offline Planning with Trajectory Pruning](http://zhanxianyuan.xyz/publication/2021-MOPP)
+* <b>IJCAI 2022 </b>: [Model-Based Offline Planning with Trajectory Pruning](http://zhanxianyuan.xyz/publication/2022-MOPP)
 
 Patents Granted
 ---
-* <b>CN110717600B</b>:样本池构建方法和装置、以及算法训练方法和装置。Inventor: 张玥, 霍雨森, 朱翔宇, 徐浩然, 邓欣, 王小波, <b>詹仙园</b>, 郑宇, 李春洋, 张钧波。2021.1.26。
-* <b>CN110673485B</b>: 用于燃烧控制的模型训练方法、装置、电子设备以及介质。Inventor：霍雨森, <b>詹仙园</b>, 张玥, 徐浩然, 邓欣, 郑宇。2020.11.24。
-* <b>CN110673478B</b>: 磨煤机的控制方法、装置、系统及存储介质。Inventor：朱翔宇, <b>詹仙园</b>, 张玥, 徐浩然, 邓欣, 郑宇。2020.09.29。
-
+* <b>CN112130538B</b>: 磨煤机的控制优化及模型训练的方法、装置、设备和介质。2022.2.1。
+* <b>CN111389575B</b>: 磨煤机组合运行控制方法、装置、设备及存储介质。2021.11.2。
+* <b>CN110533192B</b>: 强化学习方法、装置、计算机可读介质及电子设备。2021.5.04。
+* <b>CN110717600B</b>: 样本池构建方法和装置、以及算法训练方法和装置。2021.1.26。
+* <b>CN110673485B</b>: 用于燃烧控制的模型训练方法、装置、电子设备以及介质。2020.11.24。
+* <b>CN110673478B</b>: 磨煤机的控制方法、装置、系统及存储介质。2020.09.29。
+* <b>CN110490132B</b>: 数据处理方法和装置。2020.09.29。
 
 Media Coverages
 ---
