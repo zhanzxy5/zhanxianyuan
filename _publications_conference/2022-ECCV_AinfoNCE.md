@@ -6,7 +6,7 @@ excerpt: "Accepted in the 17th European Conference on Computer Vision (ECCV 2022
 date: 2022-7-9
 venue: '17th European Conference on Computer Vision (ECCV 2022)'
 paperurl: ''
-citation: 'Yu, Q., Lou, J., <b>Zhan, X.</b>, Li, Q., Liu, J., Zuo W. and Liu, Y. Adversarial Contrastive Learning via Asymmetric InfoNCE. In the <i>17th European Conference on Computer Vision (ECCV 2022)</i>.'
+citation: 'Yu, Q., Lou, J., <b>Zhan, X.</b>, Li, Q., Liu, J., Zuo W. and Liu, Y. Adversarial Contrastive Learning via Asymmetric InfoNCE. In <i>17th European Conference on Computer Vision (ECCV 2022)</i>.'
 ---
 
 Abstract
