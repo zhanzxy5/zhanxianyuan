@@ -25,6 +25,7 @@ Our team is looking for student interns/research associates/postdocs of differen
 
 Recent News and Activities
 ---
+* <b>Sep. 2022:</b> Our two recent papers "[A Policy-Guided Imitation Approach for Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2022-POR)" and "[When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](http://zhanxianyuan.xyz/publication/2022-H2O)" have been accepted in NeurIPS 2022!
 * <b>Sep. 2022:</b> Our paper: "[Discriminator-Guided Model-Based Offline Imitation Learning](http://zhanxianyuan.xyz/publication/2022-DMIL)" has been accepted in CoRL 2022.
 * <b>Jul. 2022:</b> Our paper: "[Adversarial Contrastive Learning via Asymmetric InfoNCE](http://zhanxianyuan.xyz/publication/2022-ECCV_AinfoNCE)" has been accepted in ECCV 2022.
 * <b>May. 2022:</b> Our paper: "[Discriminator-Weighted Offline Imitation Learning from Suboptimal Demonstrations](http://zhanxianyuan.xyz/publication/2021-DWBC)" has been accepted in ICML 2022.
