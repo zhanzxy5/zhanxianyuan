@@ -143,7 +143,7 @@ redirect_from:
 * Journal of Physics: Complexity
 
 ### 会议审稿人
-* AAAI Conference on Artificial Intelligence: AAAI 2021, 2022
+* AAAI Conference on Artificial Intelligence: AAAI 2021, 2023
 * Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2022
 * International Conference on Machine Learning (ICML): ICML 2022
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): IROS 2022
