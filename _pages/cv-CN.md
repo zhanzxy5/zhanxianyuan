@@ -143,9 +143,10 @@ redirect_from:
 * Journal of Physics: Complexity
 
 ### 会议审稿人
-* AAAI Conference on Artificial Intelligence: AAAI 2021, 2023
 * Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2022
 * International Conference on Machine Learning (ICML): ICML 2022
+* AAAI Conference on Artificial Intelligence: AAAI 2021, 2023
+* IEEE International Conference on Robotics and Automation (ICRA): ICRA 2023
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): IROS 2022
 * China Conference on Data Mining (CCDM): CCDM 2021, 2022
 * IEEE International Conference on Intelligent Transportation (ITSC)
