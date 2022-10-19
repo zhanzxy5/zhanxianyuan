@@ -3,10 +3,10 @@ title: "A Versatile and Efficient Reinforcement Learning Framework for Autonomou
 collection: publications_preprint
 permalink: /publication/2022-versatile
 excerpt: "Preprint, under review."
-date: 2022-3-3
-venue: 'arXiv preprint arXiv:2110.11573.'
+date: 2022-10-19
+venue: 'NeurIPS 2022 Reinforcement Learning for Real Life (RL4RealLife) Workshop.'
 paperurl: ''
-citation: 'Wang, G., Niu, H., Zhu, D., Hu, J., <b>Zhan, X.</b>, and Zhou, G. A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving. <i>arXiv preprint arXiv:2110.11573</i>.'
+citation: 'Wang, G., Niu, H., Zhu, D., Hu, J., <b>Zhan, X.</b>, and Zhou, G. A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving. <i>NeurIPS 2022 Reinforcement Learning for Real Life (RL4RealLife) Workshop</i>.'
 ---
 
 Abstract
