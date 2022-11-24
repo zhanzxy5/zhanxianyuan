@@ -2,11 +2,11 @@
 title: "CSCAD: Correlation Structure-based Collective Anomaly Detection in Complex System"
 collection: publications_journal
 permalink: /publication/2021-OOD_anomaly
-excerpt: "Accepted in IEEE Transactions on Knowledge and Data Engineering (TKDE). "
+excerpt: "In IEEE Transactions on Knowledge and Data Engineering (TKDE). "
 date: 2022-1-13
 venue: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
 paperurl: ''
-citation: 'Qin, H., <b>Zhan, X.</b>, and Zheng, Y. CSCAD: Correlation Structure-based Collective Anomaly Detection in Complex System. Accepted in <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>.'
+citation: 'Qin, H., <b>Zhan, X.</b>, and Zheng, Y. CSCAD: Correlation Structure-based Collective Anomaly Detection in Complex System. In <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>.'
 ---
 
 Abstract
