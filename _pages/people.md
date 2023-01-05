@@ -13,7 +13,8 @@ author_profile: true
 * Wenjia Zhang (2021-present), PhD student at Tsinghua University, China
 * Peng Cheng (2021-present), PhD student at Beijing Jiaotong University, China
 * Haoyi Niu (2021-present), Master student at Tsinghua University, China
-* Weiye Xi (2021-present), Undergraduate student at Tsinghua University, China
+* Xiangsen Wang (2022-present), Master student at Beijing Jiaotong University, China
+* Weiye Xi (2021-2022), Undergraduate student at Tsinghua University, China
 * Jiang Li (2021-2022), Master student at Tsinghua University, China
 * Yong Wang (2021), PhD student at Beijing Institute of Technology, China
 
