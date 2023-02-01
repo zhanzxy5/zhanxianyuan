@@ -143,7 +143,7 @@ redirect_from:
 * Journal of Physics: Complexity
 
 ### 会议审稿人
-* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2022
+* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2022 (top reviewer verification)
 * International Conference on Machine Learning (ICML): ICML 2022
 * AAAI Conference on Artificial Intelligence: AAAI 2021, 2023
 * IEEE International Conference on Robotics and Automation (ICRA): ICRA 2023
