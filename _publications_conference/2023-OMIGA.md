@@ -6,7 +6,7 @@ excerpt: "Thirty-seventh Conference on Neural Information Processing Systems (Ne
 date: 2023-9-22
 venue: 'Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).'
 paperurl: ''
-citation: 'Xiangsen Wang, Haoran Xu, Yinan Zheng, <b>Zhan, X.</b>. Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization. <i>Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)</i>.'
+citation: 'Wang, X., Xu, H., Zheng, Y., <b>Zhan, X.</b>. Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization. <i>Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)</i>.'
 ---
 
 Abstract
