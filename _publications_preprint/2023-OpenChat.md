@@ -3,7 +3,7 @@ title: "OpenChat: Advancing Open-source Language Models with Mixed-Quality Data"
 collection: publications_preprint
 permalink: /publication/2023-OpenChat
 excerpt: "Preprint, under review."
-date: 2023-6-28
+date: 2023-9-22
 venue: 'Arxiv.'
 paperurl: ''
 citation: 'Wang, G., Cheng, S., <b>Zhan, X.</b>, Li, X., Song, S., Liu, Y. OpenChat: Advancing Open-source Language Models with Mixed-Quality Data. <i>arXiv:2110.06169</i>.'
