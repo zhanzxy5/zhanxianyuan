@@ -17,4 +17,4 @@ Nowadays, open-source large language models like LLaMA have emerged. Recent deve
 Other information
 ---
 * [Arxiv version of the paper](https://arxiv.org/abs/2309.11235)
-* [Code](https://github.com/imoneoi/openchat](https://github.com/imoneoi/openchat)
+* [Code](https://github.com/imoneoi/openchat)
