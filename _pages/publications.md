@@ -13,7 +13,7 @@ Preprints
 {% include base_path %}
 
 {% for post in site.publications_preprint reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 Conference Proceedings
@@ -21,21 +21,21 @@ Conference Proceedings
 {% include base_path %}
 
 {% for post in site.publications_conference reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 Journal Publications
 ---
 
 {% for post in site.publications_journal reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 Peer Reviewed Book Chapters
 ---
 
 {% for post in site.publications_book reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 <!-- Theses
