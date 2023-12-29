@@ -12,31 +12,47 @@ Preprints
 ---
 {% include base_path %}
 
-{% for post in site.publications_preprint reversed %}
+<!-- {% for post in site.publications_preprint reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}
+{% endfor %} -->
+
+  <ul>{% for post in site.publications_preprint reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Conference Proceedings
 ---
 {% include base_path %}
 
-{% for post in site.publications_conference reversed %}
+<!-- {% for post in site.publications_conference reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}
+{% endfor %} -->
+
+  <ul>{% for post in site.publications_conference reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Journal Publications
 ---
 
-{% for post in site.publications_journal reversed %}
+<!-- {% for post in site.publications_journal reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}
+{% endfor %} -->
+
+  <ul>{% for post in site.publications_journal reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Peer Reviewed Book Chapters
 ---
 
-{% for post in site.publications_book reversed %}
+<!-- {% for post in site.publications_book reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}
+{% endfor %} -->
+
+  <ul>{% for post in site.publications_book reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 <!-- Theses
 ---
