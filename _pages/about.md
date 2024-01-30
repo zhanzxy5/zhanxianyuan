@@ -17,9 +17,9 @@ Research Interests
 ---
 * Offline deep reinforcement learning
 * Offline imitation learning
+* Foundation models for decision-making
 * Complex system optimization
 * Autonomous driving
-* Big data analytics in transportation
 
 We are hiring!!!
 ---
