@@ -149,6 +149,7 @@ redirect_from:
 * International Conference on Machine Learning (ICML): ICML 2022, 2023, 2024
 * AAAI Conference on Artificial Intelligence: AAAI 2021, 2022, 2023
 * International Joint Conference on Artificial Intelligence (IJCAI): IJCAI 2023, 2024
+* Reinforcement Learning Conference (RLC): RLC 2024
 * IEEE International Conference on Robotics and Automation (ICRA): ICRA 2023
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): IROS 2022
 * China Conference on Data Mining (CCDM): CCDM 2021, 2022
@@ -174,6 +175,7 @@ redirect_from:
 * DeeCamp 2021, “AI赋能的医疗与健康”赛道导师，2021年6月-8月，北京
 
 ### 指导学生及实习生（清华大学智能产业研究院AIR）
+* 郑可馨（2024-至今），香港中文大学本科生
 * 郑一楠（2023-至今），清华大学博士生
 * 郑金亮（2023-至今），清华大学博士生
 * 毛力源（2023-至今），上海交通大学本科生
@@ -189,15 +191,10 @@ redirect_from:
 * 邱亦文（2021-2022），清华大学本科生 (当前：CMU硕士生)
 * 王勇（2021），北京理工大学博士生
 
-### 指导实习生（京东智能城市研究院）
-* 秦慧琳 (2018-2021)，西安电子科技大学博士生
+### 指导实习生（微软亚洲研究院 \& 京东智能城市研究院）
+* 秦慧琳 (2017-2021)，西安电子科技大学博士生 (当前：北京师范大学广州分校助理教授)
 * 徐浩然 (2018-2021)，西安电子科技大学硕士生 (当前：UT Austin博士生)
 * 李一贤 (2018)，东北大学硕士生
 
 ### 指导实习生（微软亚洲研究院）：
 * 秦慧琳(2017-2018)，西安电子科技大学博士生
-
-### 指导本科交流学生（普渡大学）
-* 王靖兴 (2015/01-02)，清华大学寒假交流本科生
-* 钱小东 (2013/07-09)，清华大学暑期交流本科生
-* Victorial Mutran (2012/07-09), 巴西Universidade do Estado do Pará暑期交流本科生
