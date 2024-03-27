@@ -189,6 +189,6 @@ redirect_from:
 * Yong Wang (2021), PhD student at Beijing Institute of Technology, China
 
 ## Supervised Interns at Microsoft Research Asia \& JD Intelligent Cities Research
-* Haoran Xu (2018-2021), Master student at Xidian University, China (Current: Assistant Professor at Beijing Normal University, Zhuhai)
-* Huilin Qin (2017-2021), PhD student at Xidian University, China (Current: PhD student at UT Austin, USA)
+* Huilin Qin (2017-2021), PhD student at Xidian University, China (Current: Assistant Professor at Beijing Normal University, Zhuhai)
+* Haoran Xu (2018-2021), Master student at Xidian University, China (Current: PhD student at UT Austin, USA)
 * Yixian Li (2018), Master student at Northeastern University, China
