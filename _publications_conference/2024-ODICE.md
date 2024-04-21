@@ -6,7 +6,7 @@ excerpt: "12th International Conference on Learning Representations (ICLR 2024).
 date: 2024-1-16
 venue: '12th International Conference on Learning Representations (ICLR 2024).'
 paperurl: ''
-citation: 'Mao, L., Xu, H., Zhang, W., <b>Zhan, X.</b> Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update. In <i>12th International Conference on Learning Representations (ICLR 2024)<b>(spotlight)</b></i>.'
+citation: 'Mao, L., Xu, H., Zhang, W., <b>Zhan, X.</b> Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update. In the <i>12th International Conference on Learning Representations (ICLR 2024)<b>(spotlight)</b></i>.'
 ---
 
 Abstract

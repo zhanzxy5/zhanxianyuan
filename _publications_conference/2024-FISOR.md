@@ -6,7 +6,7 @@ excerpt: "12th International Conference on Learning Representations (ICLR 2024).
 date: 2024-1-16
 venue: '12th International Conference on Learning Representations (ICLR 2024).'
 paperurl: ''
-citation: 'Zheng, Y., Li, J., Yu, D., Yang, Y., Li, S., <b>Zhan, X.</b>, Liu, J. Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model. In <i>12th International Conference on Learning Representations (ICLR 2024)</i>.'
+citation: 'Zheng, Y., Li, J., Yu, D., Yang, Y., Li, S., <b>Zhan, X.</b>, Liu, J. Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model. In the <i>12th International Conference on Learning Representations (ICLR 2024)</i>.'
 ---
 
 Abstract

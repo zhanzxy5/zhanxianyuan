@@ -6,7 +6,7 @@ excerpt: "12th International Conference on Learning Representations (ICLR 2024).
 date: 2024-1-16
 venue: '12th International Conference on Learning Representations (ICLR 2024).'
 paperurl: ''
-citation: 'Wang, G., Cheng, S., <b>Zhan, X.</b>, Li, X., Song, S., Liu, Y. OpenChat: Advancing Open-source Language Models with Mixed-Quality Data. In <i>12th International Conference on Learning Representations (ICLR 2024)</i>.'
+citation: 'Wang, G., Cheng, S., <b>Zhan, X.</b>, Li, X., Song, S., Liu, Y. OpenChat: Advancing Open-source Language Models with Mixed-Quality Data. In the <i>12th International Conference on Learning Representations (ICLR 2024)</i>.'
 ---
 
 

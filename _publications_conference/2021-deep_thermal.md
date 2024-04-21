@@ -6,7 +6,7 @@ excerpt: "Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI2022)."
 date: 2021-12-1
 venue: 'Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI2022)'
 paperurl: ''
-citation: '<b>Zhan, X.</b>, Xu, H., Zhang, Y., Zhu, X. and Yin, H. DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning. In <i>Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI2022)</i>.'
+citation: '<b>Zhan, X.</b>, Xu, H., Zhang, Y., Zhu, X. and Yin, H. DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning. In the <i>Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI2022)</i>.'
 ---
 
 Abstract
