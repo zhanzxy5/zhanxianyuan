@@ -28,5 +28,3 @@ author_profile: true
 ## Supervised Interns at Microsoft Research Asia & JD Intelligent Cities Research
 * Huilin Qin (2017-2021), PhD student at Xidian University, China (Current: Assistant Professor at Beijing Normal University, Zhuhai)
 * Haoran Xu (2018-2021), Master student at Xidian University, China (Current: PhD student at UT Austin, USA)
-* Yixian Li (2018), Master student at Northeastern University, China
-

@@ -137,6 +137,7 @@ redirect_from:
 
 ### 期刊审稿人
 * ACM Transactions on Intelligent Systems and Technology (TIST)
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Big Data (TBD)
@@ -197,7 +198,6 @@ redirect_from:
 ### 指导实习生（微软亚洲研究院 & 京东智能城市研究院）
 * 秦慧琳 (2017-2021)，西安电子科技大学博士生 (当前：北京师范大学广州分校助理教授)
 * 徐浩然 (2018-2021)，西安电子科技大学硕士生 (当前：UT Austin博士生)
-* 李一贤 (2018)，东北大学硕士生
 
 ### 指导实习生（微软亚洲研究院）：
 * 秦慧琳(2017-2018)，西安电子科技大学博士生

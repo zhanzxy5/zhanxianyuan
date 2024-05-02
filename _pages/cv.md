@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202401.pdf)
+[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202405.pdf)
 
 ## Education
 * Ph.D in Transportation Systems, Civil Engineering, Purdue University, 2017
@@ -137,6 +137,7 @@ redirect_from:
 
 ### Reviewer of Journals
 * ACM Transactions on Intelligent Systems and Technology (TIST)
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Big Data (TBD)
@@ -193,4 +194,3 @@ redirect_from:
 ## Supervised Interns at Microsoft Research Asia & JD Intelligent Cities Research
 * Huilin Qin (2017-2021), PhD student at Xidian University, China (Current: Assistant Professor at Beijing Normal University, Zhuhai)
 * Haoran Xu (2018-2021), Master student at Xidian University, China (Current: PhD student at UT Austin, USA)
-* Yixian Li (2018), Master student at Northeastern University, China
