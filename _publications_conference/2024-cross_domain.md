@@ -6,7 +6,7 @@ excerpt: "33rd International Joint Conference on Artificial Intelligence (IJCAI 
 date: 2024-4-20
 venue: '33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)'
 paperurl: ''
-citation: 'Niu, H., Hu, J., Zhou, G., <b>Zhan, X.</b> A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents. In the <i>33st International Joint Conference on Artificial Intelligence (IJCAI 2024)</i>.'
+citation: 'Niu, H., Hu, J., Zhou, G., <b>Zhan, X.</b> A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents. In the <i>33st International Joint Conference on Artificial Intelligence (IJCAI 2024) <b>(oral)</b></i>.'
 ---
 
 Abstract
