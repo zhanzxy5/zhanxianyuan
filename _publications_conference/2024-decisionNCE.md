@@ -6,7 +6,7 @@ excerpt: "41st International Conference on Machine Learning (ICML 2024)."
 date: 2024-5-2
 venue: '41st International Conference on Machine Learning (ICML 2024).'
 paperurl: ''
-citation: 'Li, J., Zheng, J., Zheng, Y., Mao, L., Hu, X., Cheng, S., Niu, H., Liu, J., Liu, Y., Liu, J., Zhang, Y. Q., <b>Zhan, X.</b> DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning. In the <i>41st International Conference on Machine Learning (ICML 2024)</i>.'
+citation: 'Li, J., Zheng, J., Zheng, Y., Mao, L., Hu, X., Cheng, S., Niu, H., Liu, J., Liu, Y., Liu, J., Zhang, Y. Q., <b>Zhan, X.</b> DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning. In the <i>41st International Conference on Machine Learning (ICML 2024) <b>(Outstanding paper award of ICML 2024 MFM-EAI Workshop)</b></i>.'
 ---
 
 Abstract
