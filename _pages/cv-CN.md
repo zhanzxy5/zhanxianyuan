@@ -58,7 +58,7 @@ redirect_from:
 * Skill 3 -->
 
 ## 荣誉及奖项
-* 2024: ICML2024 Multi-modal Foundation Model meets Embodied AI (MFM-EAI)研讨会杰出论文奖（获奖论文：[DecisionNCE](http://zhanxianyuan.xyz/publication/2024-decisionNCE) & [IVM](http://zhanxianyuan.xyz/publication/2024-IVM)）.
+* 2024: ICML 2024 Multi-modal Foundation Model meets Embodied AI (MFM-EAI)研讨会杰出论文奖（获奖论文：[DecisionNCE](http://zhanxianyuan.xyz/publication/2024-decisionNCE) & [IVM](http://zhanxianyuan.xyz/publication/2024-IVM)）.
 * 2023：中国自动化学会科技进步奖二等奖
 * 2022: 入选百度“AI华人青年学者榜”（AI+X）
 * 2022: 吴文俊人工智能科学技术奖（科技进步奖三等奖）

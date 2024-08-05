@@ -58,7 +58,7 @@ redirect_from:
 * Skill 3 -->
 
 ## Honors & Awards
-* 2024: Outstanding Paper Awards at ICML2024 Workshop on Multi-modal Foundation Model meets Embodied AI (MFM-EAI) ([DecisionNCE](http://zhanxianyuan.xyz/publication/2024-decisionNCE) and [IVM](http://zhanxianyuan.xyz/publication/2024-IVM)).
+* 2024: Outstanding Paper Awards at ICML 2024 Workshop on Multi-modal Foundation Model meets Embodied AI (MFM-EAI) ([DecisionNCE](http://zhanxianyuan.xyz/publication/2024-decisionNCE) and [IVM](http://zhanxianyuan.xyz/publication/2024-IVM)).
 * 2023: 2nd Prize of Science and Technology Progress Award of Chinese Association of Automation (CCA)
 * 2022: Selected as the "Global Top Chinese Young Scholars in Artificial Intelligence (AI+X)" by Baidu
 * 2022: 3rd Prize of Wu Wen Jun AI Science & Technology Award
