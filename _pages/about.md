@@ -21,14 +21,10 @@ Research Interests
 * Complex system optimization
 * Autonomous driving
 
-Update on the contact information
----
-My previous e-mail address zhanxianyuan@air.tsinghua.edu.cn will not be usable by the end of 2024. Please reach me through my new e-mail address:  [zhanxianyuan@mail.tsinghua.edu.cn](mailto:zhanxianyuan@mail.tsinghua.edu.cn). 
-
 
 We are hiring!!!
 ---
-Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **offline RL/IL**, **AI alignment/AI safety**, **embodied AI**, **decision-making in autonomous driving**, please feel free to send me an e-mail at [zhanxianyuan@mail.tsinghua.edu.cn](mailto:zhanxianyuan@mail.tsinghua.edu.cn)!
+Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **offline RL/IL**, **AI alignment/AI safety**, **embodied AI**, **decision-making in autonomous driving**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
 
 
 Recent News and Activities
