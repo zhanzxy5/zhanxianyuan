@@ -188,7 +188,7 @@ redirect_from:
 * Haoyi Niu (2021-present), Master student at Tsinghua University, China
 * Xiangsen Wang (2022-2023), Master student at Beijing Jiaotong University, China (Current: Algorithm Engineer at Baidu Inc)
 * Jiang Li (2021-2022), Master student at Tsinghua University, China (Current: PhD student at McGill University, Canada)
-* Weiye Xi (2021-2022), Undergraduate student at Tsinghua University, China (Current: PhD student at Geogia Tech, USA)
+* Weiye Xi (2021-2022), Undergraduate student at Tsinghua University, China (Current: PhD student at Columbia University, USA)
 * Yiwen Qiu (2021-2022), Undergraduate student at Tsinghua University (Current: Master student at Carnegie Mellon University, USA)
 * Yong Wang (2021), PhD student at Beijing Institute of Technology, China
 
