@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202411.pdf)
+[Curriculum Vitae Download](http://zhanzxy5.github.io/zhanxianyuan/files/Zhan-CV-Eng_202412.pdf)
 
 ## Education
 * Ph.D in Transportation Systems, Civil Engineering, Purdue University, 2017
