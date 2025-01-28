@@ -1,12 +1,12 @@
 ---
 title: "Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning"
-collection: publications_preprint
-permalink: /publication/2024-RoboMutual
-excerpt: "Preprint, under review."
-date: 2024-10-11
-venue: 'NeurIPS 2024 Workshop on Open-World Agents (OWA).'
+collection: publications_conference
+permalink: /publication/2025-RoboMutual
+excerpt: "2025 IEEE International Conference on Robotics & Automation (ICRA 2025)."
+date: 2025-1-28
+venue: '2025 IEEE International Conference on Robotics & Automation (ICRA 2025).'
 paperurl: ''
-citation: 'Li, J, Wang, Z., Zheng, J., Zhou, X., Wang, G., Song, G., Liu, Y., Liu, J., Zhang, Y., <b>Zhan, X.</b> Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning. <i>NeurIPS 2024 Workshop on Open-World Agents (OWA)</i>.'
+citation: 'Li, J, Wang, Z., Zheng, J., Zhou, X., Wang, G., Song, G., Liu, Y., Liu, J., Zhang, Y., <b>Zhan, X.</b> Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning. <i>2025 IEEE International Conference on Robotics & Automation (ICRA 2025)</i>.'
 ---
 
 Abstract
@@ -17,3 +17,4 @@ Other information
 ---
 * [Paper](https://arxiv.org/pdf/2410.01529v1)
 * [Project Page](https://zh1hao.wang/Robo_MUTUAL/)
+* This paper was also previous accepted in <i>NeurIPS 2024 Workshop on Open-World Agents (OWA)</i>.
