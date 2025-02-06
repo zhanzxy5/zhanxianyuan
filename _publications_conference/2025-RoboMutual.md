@@ -15,6 +15,6 @@ Abstract
 
 Other information
 ---
-* [Paper](https://arxiv.org/pdf/2410.01529v1)
 * [Project Page](https://zh1hao.wang/Robo_MUTUAL/)
+* [Paper](https://arxiv.org/pdf/2410.01529v1)
 * This paper was also previous accepted in <i>NeurIPS 2024 Workshop on Open-World Agents (OWA)</i>.

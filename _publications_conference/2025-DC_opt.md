@@ -16,4 +16,5 @@ The recent advances in information technology and artificial intelligence have f
 
 Other information
 ---
+* [Project page](https://air-di.github.io/AIDC/)
 * [Paper](https://openreview.net/forum?id=W8xukd70cU)

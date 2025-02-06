@@ -16,4 +16,6 @@ Achieving human-like driving behaviors in complex open-world environments is a c
 
 Other information
 ---
+* [Project page](https://zhengyinan-air.github.io/Diffusion-Planner/)
 * [Paper](https://openreview.net/forum?id=wM2sfVgMDH)
+* [Code](https://github.com/ZhengYinan-AIR/Diffusion-Planner)

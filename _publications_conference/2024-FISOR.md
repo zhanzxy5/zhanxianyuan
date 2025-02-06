@@ -17,5 +17,6 @@ We compare FISOR against baselines on DSRL benchmark for safe offline RL. Evalua
 
 Other information
 ---
-* [paper](https://openreview.net/forum?id=j5JvZCaDM0)
-* [code](https://github.com/ZhengYinan-AIR/FISOR)
+* [Project page](https://zhengyinan-air.github.io/FISOR/)
+* [Paper](https://openreview.net/forum?id=j5JvZCaDM0)
+* [Code](https://github.com/ZhengYinan-AIR/FISOR)
