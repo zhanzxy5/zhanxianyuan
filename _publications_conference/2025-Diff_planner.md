@@ -6,7 +6,7 @@ excerpt: "13th International Conference on Learning Representations (ICLR 2025).
 date: 2025-1-23
 venue: '13th International Conference on Learning Representations (ICLR 2025).'
 paperurl: ''
-citation: 'Zheng, Y., Liang, R., Zheng, K., Zheng, J., Mao, L., Li, J., Gu, W., Ai, R., Li, S., <b>Zhan, X.</b>, Liu, J. Diffusion-Based Planning for Autonomous Driving with Flexible Guidance. In the <i>13th International Conference on Learning Representations (ICLR 2025)</i>.'
+citation: 'Zheng, Y., Liang, R., Zheng, K., Zheng, J., Mao, L., Li, J., Gu, W., Ai, R., Li, S., <b>Zhan, X.</b>, Liu, J. Diffusion-Based Planning for Autonomous Driving with Flexible Guidance. In the <i>13th International Conference on Learning Representations (ICLR 2025) <b>(oral)</b></i>.'
 ---
 
 Abstract
