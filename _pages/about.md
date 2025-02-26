@@ -15,16 +15,16 @@ Dr. Xianyuan Zhan is a research associate professor at the [Institute for AI Ind
 
 Research Interests
 ---
-* Offline deep reinforcement learning
-* Offline imitation learning
+* Real-world reinforcement learning / imitation learning
 * Foundation models for decision-making
+* Embodied AI
 * Complex system optimization
 * Autonomous driving
 
 
 We are hiring!!!
 ---
-Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **offline RL/IL**, **AI alignment/AI safety**, **embodied AI**, **decision-making in autonomous driving**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
+Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **real-world RL/IL**, **AI alignment/AI safety**, **embodied AI**, **decision-making in autonomous driving**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
 
 
 Recent News and Activities
