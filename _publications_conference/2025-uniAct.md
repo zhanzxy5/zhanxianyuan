@@ -1,12 +1,12 @@
 ---
 title: "Universal Actions for Enhanced Embodied Foundation Models"
-collection: publications_preprint
+collection: publications_conference
 permalink: /publication/2025-uniAct
-excerpt: "Preprint, under review."
-date: 2025-1-20
-venue: 'Preprint, under review.'
+excerpt: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)."
+date: 2025-2-27
+venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025).'
 paperurl: ''
-citation: 'Zheng, J., Li, J., Liu, D., Zheng, Y., Wang, Z., Ou, Z., Liu, Y., Liu, J., Zheng, Y., <b>Zhan, X.</b> Universal Actions for Enhanced Embodied Foundation Models. <i>arXiv:2501.10105</i>.'
+citation: 'Zheng, J., Li, J., Liu, D., Zheng, Y., Wang, Z., Ou, Z., Liu, Y., Liu, J., Zheng, Y., <b>Zhan, X.</b> Universal Actions for Enhanced Embodied Foundation Models. <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)</i>.'
 ---
 
 Abstract

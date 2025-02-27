@@ -18,19 +18,18 @@ Research Interests
 * Real-world reinforcement learning / imitation learning
 * Foundation models for decision-making
 * Embodied AI
-* Complex system optimization
 * Autonomous driving
-
+* Complex industrial system optimization
 
 We are hiring!!!
 ---
-Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **real-world RL/IL**, **AI alignment/AI safety**, **embodied AI**, **decision-making in autonomous driving**, please feel free to send me an e-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
+Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.edu.cn)! If you are interested in the research directions of **real-world RL/IL**, **AI alignment/AI safety**, **embodied AI**, and **decision-making in autonomous driving**, please feel free to send me an E-mail at [zhanxianyuan@air.tsinghua.edu.cn](mailto:zhanxianyuan@air.tsinghua.edu.cn)!
 
 
 Recent News and Activities
 ---
+* <b>Feb. 2025:</b> Our recent paper "[Universal Actions for Enhanced Embodied Foundation Models](http://zhanxianyuan.xyz/publication/2025-uniAct)" has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at [https://2toinf.github.io/UniAct/](https://2toinf.github.io/UniAct/).
 * <b>Jan. 2025:</b> Our two recent papers "[Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning](http://zhanxianyuan.xyz/publication/2025-RoboMutual)" and "[H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](http://zhanxianyuan.xyz/publication/2025-H2O+)" have been accepted in ICRA 2025!
-* <b>Jan. 2025:</b> We have released "[Universal Actions for Enhanced Embodied Foundation Models](http://zhanxianyuan.xyz/publication/2025-uniAct)", which learns universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at [https://2toinf.github.io/UniAct/](https://2toinf.github.io/UniAct/).
 * <b>Jan. 2025:</b> Our three recent papers "[Data Center Cooling System Optimization Using Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2025-DC_opt)", "[Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](http://zhanxianyuan.xyz/publication/2025-Diff_planner)", and "[Skill Expansion and Composition in Parameter Space](http://zhanxianyuan.xyz/publication/2025-PSEC)" have been accepted in ICLR 2025!
 * <b>Dec. 2024:</b> Our recent paper "[Are Expressive Models Truly Necessary for Offline RL?](http://zhanxianyuan.xyz/publication/2025-RSP)" has been accepted as an **oral paper** in AAAI 2025!
 * <b>Sep. 2024:</b> Our two recent papers "[Instruction-Guided Visual Masking](http://zhanxianyuan.xyz/publication/2024-IVM)" and "[Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2024-DiffDice)" have been accepted in NeurIPS 2024!
