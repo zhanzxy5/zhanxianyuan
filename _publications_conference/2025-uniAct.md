@@ -17,4 +17,4 @@ Training on diverse, internet-scale data is a key factor in the success of recen
 Other information
 ---
 * [Project page](https://2toinf.github.io/UniAct/)
-* [Paper](https://arxiv.org/pdf/2501.10105)
+* [Arxiv version](https://arxiv.org/pdf/2501.10105)
