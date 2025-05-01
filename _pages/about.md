@@ -28,6 +28,7 @@ Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.e
 
 Recent News and Activities
 ---
+* <b>May. 2025:</b> Our recent paper "[Efficient Robotic Policy Learning via Latent Space Backward Planning](http://zhanxianyuan.xyz/publication/2025-LBP)" has been accepted in ICML 2025!
 * <b>Feb. 2025:</b> Our recent paper "[Universal Actions for Enhanced Embodied Foundation Models](http://zhanxianyuan.xyz/publication/2025-uniAct)" has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at [https://2toinf.github.io/UniAct/](https://2toinf.github.io/UniAct/).
 * <b>Jan. 2025:</b> Our two recent papers "[Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning](http://zhanxianyuan.xyz/publication/2025-RoboMutual)" and "[H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](http://zhanxianyuan.xyz/publication/2025-H2O+)" have been accepted in ICRA 2025!
 * <b>Jan. 2025:</b> Our three recent papers "[Data Center Cooling System Optimization Using Offline Reinforcement Learning](http://zhanxianyuan.xyz/publication/2025-DC_opt)", "[Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](http://zhanxianyuan.xyz/publication/2025-Diff_planner)", and "[Skill Expansion and Composition in Parameter Space](http://zhanxianyuan.xyz/publication/2025-PSEC)" have been accepted in ICLR 2025!
