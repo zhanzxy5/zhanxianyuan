@@ -2,7 +2,7 @@
 title: "Towards Generalizable and Data-Efficient Embodied Decision-Making"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-Singapore
+permalink: /talks/2024-Singapore
 venue: "Workshop on Computational Sustainability in Digital Infrastructure"
 date: 2024-06-12
 location: "NTU, Singapore"
