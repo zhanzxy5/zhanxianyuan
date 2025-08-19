@@ -109,8 +109,8 @@ redirect_from:
 * Journal of Big Data Analytics in Transportation
 
 ### 会议组织委员会成员
-* 2025 Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025): Spotlight and Poster Chair
-* FISITA Intelligent Safety Conference China (ISCC 2024, 2025): Technical Committee Member
+* 2025 Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025): <b>Spotlight and Poster Chair</b>
+* FISITA Intelligent Safety Conference China (ISCC 2024, 2025): <b>Technical Committee Member</b>
 
 ### 会议领域主席（AC）/资深程序委员会成员（SPC）
 * Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2024, 2025
