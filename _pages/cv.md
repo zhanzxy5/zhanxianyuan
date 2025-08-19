@@ -108,17 +108,25 @@ redirect_from:
 * Frontiers in Built Environment - Transportation and Transit Systems: Review Editor
 * Journal of Big Data Analytics in Transportation
 
-### Area Chair of Conferences
-* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2024
+### Organization Committee Member of Conferences
+* 2025 Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025): <b>Spotlight and Poster Chair</b>
+* FISITA Intelligent Safety Conference China (ISCC 2024, 2025): <b>Technical Committee Member</b>
+
+### Area Chair / Senior Program Committee (SPC) of Conferences
+* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2024, 2025
+* International Conference on Learning Representations (ICLR): ICLR 2026
+* AAAI Conference on Artificial Intelligence (AAAI): AAAI 2026
 
 ### Reviewer of Conferences
-* International Conference on Learning Representations (ICLR): ICLR 2024
+* International Conference on Learning Representations (ICLR): ICLR 2024, 2025
 * Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2022 (<b>top reviewer</b>), 2023
-* International Conference on Machine Learning (ICML): ICML 2022, 2023, 2024
-* AAAI Conference on Artificial Intelligence: AAAI 2021, 2022, 2023
+* International Conference on Machine Learning (ICML): ICML 2022, 2023, 2024, 2025
+* AAAI Conference on Artificial Intelligence: AAAI 2021, 2022, 2023, 2024, 2025
 * International Joint Conference on Artificial Intelligence (IJCAI): IJCAI 2023, 2024
-* Reinforcement Learning Conference (RLC): RLC 2024
-* IEEE International Conference on Robotics and Automation (ICRA): ICRA 2023
+* International Conference on Artificial Intelligence and Statistics (AISTATS): AISTATS 2025
+* SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): KDD 2025
+* IEEE International Conference on Robotics and Automation (ICRA): ICRA 2023, 2024
+* Reinforcement Learning Conference (RLC): RLC 2024, 2025
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): IROS 2022
 * China Conference on Data Mining (CCDM): CCDM 2021, 2022
 * IEEE International Conference on Intelligent Transportation (ITSC)
@@ -126,31 +134,48 @@ redirect_from:
 * Transportation Research Board Annual Meeting
 
 ### Reviewer of Journals
-* ACM Transactions on Intelligent Systems and Technology (TIST)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
+* IEEE Transactions on Artificial Intelligence (TAI)
 * IEEE Transactions on Big Data (TBD)
 * IEEE Transactions on Knowledge Discovery from Data (TKDD)
 * IEEE Transactions on Intelligent Transportation Systems (ITS)
 * IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
 * IEEE Transactions on Mobile Computing (TMC)
+* IEEE Transactions on Green Communications and Networking (TGCN)
+* IEEE Transactions on Automation Science and Engineering (T-ASE)
+* IEEE Transactions on Cloud Computing (TCC)
+* IEEE Transactions on Industrial Informatics
 * IEEE Signal Processing Letters
+* IEEE Internet of Things Journal
+* IEEE Journal of Biomedical and Health Informatics
 * IEEE Access
+* ACM Transactions on Intelligent Systems and Technology (TIST)
+* Science China Information Sciences
 * Expert Systems With Applications
+* Engineering Applications of Artificial Intelligence
+* Computers & Industrial Engineering
+* Frontiers of Computer Science
+* Robotica
 * Transportation Research Part A: Policy and Practice
 * Transportation Research Part B: Methodological
 * Transportation Research Part C: Emerging Technologies
 * Transportation Research Part D: Transport and Environment
 * Transportmetrica B: Transport Dynamics
+* Scientific Report
+* PLOS ONE
 * European Journal of Operational Research
 * Network and Spatial Economics
-* PLOS ONE
 * Transportation
 * Journal of Advanced Transportation
 * Environment and Planning B: Urban Analytics and City Science
 * IET Intelligent Transport Systems
+* Applied Energy
+* Sustainable Energy, Grids and Networks
+* Journal of Electrical Power and Energy Systems
 * Journal of Physics: Complexity
+* Nuclear Science and Techniques
 
 ## Teaching
 ### Courses as Teaching Assistant at Purdue
