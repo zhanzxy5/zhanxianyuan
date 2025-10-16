@@ -28,6 +28,7 @@ Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.e
 
 Recent News and Activities
 ---
+* <b>Oct. 2025:</b> We have released "[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](http://zhanxianyuan.xyz/publication/2025-XVLA)! A lightweight yet scalable cross-embodiment VLA model that achieve SOTA performance over all mainstream embodied AI benchmarks! Project page available at [https://thu-air-dream.github.io/X-VLA/](https://thu-air-dream.github.io/X-VLA/).
 * <b>Sep. 2025:</b> Our three recent papers "[Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling](http://zhanxianyuan.xyz/publication/2025-FlowPlanner)", "[Towards Robust Zero-Shot Reinforcement Learning](http://zhanxianyuan.xyz/publication/2025-BREEZE)", and "[Unified Reinforcement Learning through Implicit Value Regularization](http://zhanxianyuan.xyz/publication/2025-UniIVR)" have been accepted in NeurIPS 2025!
 * <b>May. 2025:</b> Our recent paper "[Efficient Robotic Policy Learning via Latent Space Backward Planning](http://zhanxianyuan.xyz/publication/2025-LBP)" has been accepted in ICML 2025!
 * <b>Feb. 2025:</b> Our recent paper "[Universal Actions for Enhanced Embodied Foundation Models](http://zhanxianyuan.xyz/publication/2025-uniAct)" has been accepted in CVPR 2025! It enables learning universal actions to power **any** robotic embodiment, physical meaning, and control interfaces! Project page available at [https://2toinf.github.io/UniAct/](https://2toinf.github.io/UniAct/).
