@@ -28,6 +28,7 @@ Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.e
 
 Recent News and Activities
 ---
+* <b>Oct. 2025:</b> Our [X-VLA](http://zhanxianyuan.xyz/publication/2025-XVLA) has won <b>First Place</b> in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!
 * <b>Oct. 2025:</b> We have released "[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](http://zhanxianyuan.xyz/publication/2025-XVLA)! A lightweight yet scalable cross-embodiment VLA model that achieve SOTA performance over all mainstream embodied AI benchmarks! Project page available at [https://thu-air-dream.github.io/X-VLA/](https://thu-air-dream.github.io/X-VLA/).
 * <b>Sep. 2025:</b> Our three recent papers "[Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling](http://zhanxianyuan.xyz/publication/2025-FlowPlanner)", "[Towards Robust Zero-Shot Reinforcement Learning](http://zhanxianyuan.xyz/publication/2025-BREEZE)", and "[Unified Reinforcement Learning through Implicit Value Regularization](http://zhanxianyuan.xyz/publication/2025-UniIVR)" have been accepted in NeurIPS 2025!
 * <b>May. 2025:</b> Our recent paper "[Efficient Robotic Policy Learning via Latent Space Backward Planning](http://zhanxianyuan.xyz/publication/2025-LBP)" has been accepted in ICML 2025!
