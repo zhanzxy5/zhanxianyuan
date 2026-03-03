@@ -49,6 +49,7 @@ redirect_from:
 * Skill 3 -->
 
 ## 荣誉及奖项
+* 2025: IROS 2025 AGIBot World Challenge具身智能挑战赛冠军
 * 2024: ICML 2024 Multi-modal Foundation Model meets Embodied AI (MFM-EAI)研讨会杰出论文奖（获奖论文：[DecisionNCE](http://zhanxianyuan.xyz/publication/2024-decisionNCE) & [IVM](http://zhanxianyuan.xyz/publication/2024-IVM)）.
 * 2023：中国自动化学会科技进步奖二等奖
 * 2022: 入选百度“AI华人青年学者榜”（AI+X）

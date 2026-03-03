@@ -47,6 +47,7 @@ redirect_from:
 * Skill 3 -->
 
 ## Honors & Awards
+* 2025: 1st Place in IROS 2025 AGIBot World Challenge
 * 2024: Outstanding Paper Awards at ICML 2024 Workshop on Multi-modal Foundation Model meets Embodied AI (MFM-EAI) ([DecisionNCE](http://zhanxianyuan.xyz/publication/2024-decisionNCE) and [IVM](http://zhanxianyuan.xyz/publication/2024-IVM)).
 * 2023: 2nd Prize of Science and Technology Progress Award of Chinese Association of Automation (CCA)
 * 2022: Selected as the "Global Top Chinese Young Scholars in Artificial Intelligence (AI+X)" by Baidu
