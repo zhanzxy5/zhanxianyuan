@@ -4,9 +4,9 @@ collection: publications_preprint
 permalink: /publication/2026-ActDesign
 excerpt: "Preprint, under review."
 date: 2026-2-26
-venue: 'Workshop on Efficient Spatial Reasoning at ICLR 2026.'
+venue: 'ICLR 2026 Workshop on Efficient Spatial Reasoning.'
 paperurl: ''
-citation: 'Feng, Y., Zheng, J., Wang, Z., Liu, D., Li, J., Pang, J., Wang, T., <b>Zhan, X.</b> Demystifying Action Space Design for Robotic Manipulation Policies. <i>Workshop on Efficient Spatial Reasoning at ICLR 2026</i>.'
+citation: 'Feng, Y., Zheng, J., Wang, Z., Liu, D., Li, J., Pang, J., Wang, T., <b>Zhan, X.</b> Demystifying Action Space Design for Robotic Manipulation Policies. <i>ICLR 2026 Workshop on Efficient Spatial Reasoning</i>.'
 ---
 
 Abstract
