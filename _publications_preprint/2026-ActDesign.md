@@ -6,7 +6,7 @@ excerpt: "Preprint, under review."
 date: 2026-2-26
 venue: 'ICLR 2026 Workshop on Efficient Spatial Reasoning.'
 paperurl: ''
-citation: 'Feng, Y., Zheng, J., Wang, Z., Liu, D., Li, J., Pang, J., Wang, T., <b>Zhan, X.</b> Demystifying Action Space Design for Robotic Manipulation Policies. <i>ICLR 2026 Workshop on Efficient Spatial Reasoning</i>.'
+citation: 'Feng, Y., Zheng, J., Wang, Z., Liu, D., Li, J., Pang, J., Wang, T., <b>Zhan, X.</b> Demystifying Action Space Design for Robotic Manipulation Policies. <i>ICLR 2026 Workshop on Efficient Spatial Reasoning<b>(Best paper award)</b></i>.'
 ---
 
 Abstract
@@ -17,3 +17,4 @@ Diffusion models have become a popular choice for decision-making tasks in robot
 Other information
 ---
 * [Paper](https://arxiv.org/abs/2602.23408)
+* Our paper has won [Best Paper Award](https://openreview.net/forum?id=nAOgwZ9Ymj) at ICLR 2026 Workshop on Efficient Spatial Reasoning!
