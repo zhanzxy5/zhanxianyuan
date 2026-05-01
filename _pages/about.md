@@ -27,6 +27,7 @@ Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.e
 
 Recent News and Activities
 ---
+* <b>Apr. 2026:</b> Our paper "[Demystifying Action Space Design for Robotic Manipulation Policies](http://zhanxianyuan.xyz/publication/2026-ActDesign)" has been accepted in ICML 2026.
 * <b>Apr. 2026:</b> Our paper "[Demystifying Action Space Design for Robotic Manipulation Policies](http://zhanxianyuan.xyz/publication/2026-ActDesign)" has won the **Best Paper Award** at ICLR 2026 Workshop on Efficient Spatial Reasoning (ES-Reasoning)!
 * <b>Jan. 2026:</b> Our four recent papers "[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](http://zhanxianyuan.xyz/publication/2026-XVLA)", "[Dichotomous Diffusion Policy Optimization](http://zhanxianyuan.xyz/publication/2026-DIPOLE)", "[Sample Efficient Offline RL via T-Symmetry Enforced Latent State-Stitching](http://zhanxianyuan.xyz/publication/2026-TELS)", and "[Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving](http://zhanxianyuan.xyz/publication/2026-ReflectDrive)" have been accepted in ICLR 2026!
 * <b>Oct. 2025:</b> Our [X-VLA](http://zhanxianyuan.xyz/publication/2026-XVLA) has won <b>First Place</b> in the [AGIBOT World Challenge (Manipulation track) @ IROS 2025](https://agibot-world.com/challenge)!

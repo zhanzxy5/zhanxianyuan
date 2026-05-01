@@ -2,11 +2,11 @@
 title: "Demystifying Action Space Design for Robotic Manipulation Policies"
 collection: publications_preprint
 permalink: /publication/2026-ActDesign
-excerpt: "Preprint, under review."
+excerpt: "Forty-Third International Conference on Machine Learning."
 date: 2026-2-26
-venue: 'ICLR 2026 Workshop on Efficient Spatial Reasoning.'
+venue: 'Forty-Third International Conference on Machine Learning.'
 paperurl: ''
-citation: 'Feng, Y., Zheng, J., Wang, Z., Liu, D., Li, J., Pang, J., Wang, T., <b>Zhan, X.</b> Demystifying Action Space Design for Robotic Manipulation Policies. <i>ICLR 2026 Workshop on Efficient Spatial Reasoning <b>(Best paper award)</b></i>.'
+citation: 'Feng, Y., Zheng, J., Wang, Z., Liu, D., Li, J., Pang, J., Wang, T., <b>Zhan, X.</b> Demystifying Action Space Design for Robotic Manipulation Policies. In the <i>Forty-Third International Conference on Machine Learning (ICML 2026) (<b>Best paper award</b> of ICLR 2026 Workshop on Efficient Spatial Reasoning)</i>.'
 ---
 
 Abstract
