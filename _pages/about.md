@@ -27,7 +27,7 @@ Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.e
 
 Recent News and Activities
 ---
-* <b>June. 2026:</b> Our paper "[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](http://zhanxianyuan.xyz/publication/2026-LiberoSafety)" has been accepted in ECCV 2026.
+* <b>Jun. 2026:</b> Our paper "[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](http://zhanxianyuan.xyz/publication/2026-LiberoSafety)" has been accepted in ECCV 2026.
 * <b>Apr. 2026:</b> Our paper "[Demystifying Action Space Design for Robotic Manipulation Policies](http://zhanxianyuan.xyz/publication/2026-ActDesign)" has been accepted in ICML 2026.
 * <b>Apr. 2026:</b> Our paper "[Demystifying Action Space Design for Robotic Manipulation Policies](http://zhanxianyuan.xyz/publication/2026-ActDesign)" has won the **Best Paper Award** at ICLR 2026 Workshop on Efficient Spatial Reasoning (ES-Reasoning)!
 * <b>Jan. 2026:</b> Our four recent papers "[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](http://zhanxianyuan.xyz/publication/2026-XVLA)", "[Dichotomous Diffusion Policy Optimization](http://zhanxianyuan.xyz/publication/2026-DIPOLE)", "[Sample Efficient Offline RL via T-Symmetry Enforced Latent State-Stitching](http://zhanxianyuan.xyz/publication/2026-TELS)", and "[Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving](http://zhanxianyuan.xyz/publication/2026-ReflectDrive)" have been accepted in ICLR 2026!
