@@ -49,6 +49,7 @@ redirect_from:
 * Skill 3 -->
 
 ## 荣誉及奖项
+* 2026: ICLR 2026 Workshop on Efficient Spatial Reasoning (ES-Reasoning)研讨会最佳论文奖（获奖论文: [Demystifying Action Space Design for Robotic Manipulation Policies](http://zhanxianyuan.xyz/publication/2026-ActDesign)））
 * 2025: IROS 2025 AGIBot World Challenge具身智能挑战赛冠军
 * 2024: ICML 2024 Multi-modal Foundation Model meets Embodied AI (MFM-EAI)研讨会杰出论文奖（获奖论文：[DecisionNCE](http://zhanxianyuan.xyz/publication/2024-decisionNCE) & [IVM](http://zhanxianyuan.xyz/publication/2024-IVM)）.
 * 2023：中国自动化学会科技进步奖二等奖
@@ -114,18 +115,19 @@ redirect_from:
 * FISITA Intelligent Safety Conference China (ISCC 2024, 2025): <b>Technical Committee Member</b>
 
 ### 会议领域主席（AC）/资深程序委员会成员（SPC）
-* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2024, 2025
+* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2024, 2025, 2026
 * International Conference on Learning Representations (ICLR): ICLR 2026
-* AAAI Conference on Artificial Intelligence (AAAI): AAAI 2026
+* AAAI Conference on Artificial Intelligence (AAAI): AAAI 2026, 2027
 
 ### 会议审稿人
 * International Conference on Learning Representations (ICLR): ICLR 2024, 2025
 * Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2022 (<b>top reviewer</b>), 2023
-* International Conference on Machine Learning (ICML): ICML 2022, 2023, 2024, 2025
+* International Conference on Machine Learning (ICML): ICML 2022, 2023, 2024, 2025, 2026
 * AAAI Conference on Artificial Intelligence: AAAI 2021, 2022, 2023, 2024, 2025
 * International Joint Conference on Artificial Intelligence (IJCAI): IJCAI 2023, 2024
 * International Conference on Artificial Intelligence and Statistics (AISTATS): AISTATS 2025
 * SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): KDD 2025
+* Conference on Robot Learning (CoRL): 2025, 2026
 * IEEE International Conference on Robotics and Automation (ICRA): ICRA 2023, 2024
 * Reinforcement Learning Conference (RLC): RLC 2024, 2025
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): IROS 2022
@@ -180,6 +182,8 @@ redirect_from:
 
 ## 教学经验
 ### 清华大学课程讲师
+* <b>强化学习与控制</b> (Spring 2026)
+* <b>大语言模型与生成式AI</b> (Spring 2026): RL for Large Language Models
 * <b>未来汽车全球公开课</b> (2021): Data-driven Methods for Intelligent Urban Transportation Systems
 
 ### 在普渡大学的助教课程
@@ -194,6 +198,7 @@ redirect_from:
 * DeeCamp 2021, “AI赋能的医疗与健康”赛道导师，2021年6月-8月，北京
 
 ### 指导/共同指导学生（清华大学智能产业研究院AIR）
+* 谭添一（2026-至今），清华大学博士生
 * 郑一楠（2023-至今），清华大学博士生
 * 郑金亮（2023-至今），清华大学博士生
 * 李健雄（2021-至今），清华大学博士生

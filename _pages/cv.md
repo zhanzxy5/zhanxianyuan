@@ -47,6 +47,7 @@ redirect_from:
 * Skill 3 -->
 
 ## Honors & Awards
+* 2026: Best Paper Awardat ICLR 2026 Workshop on Efficient Spatial Reasoning ([Demystifying Action Space Design for Robotic Manipulation Policies](http://zhanxianyuan.xyz/publication/2026-ActDesign)).
 * 2025: 1st Place in IROS 2025 AGIBot World Challenge
 * 2024: Outstanding Paper Awards at ICML 2024 Workshop on Multi-modal Foundation Model meets Embodied AI (MFM-EAI) ([DecisionNCE](http://zhanxianyuan.xyz/publication/2024-decisionNCE) and [IVM](http://zhanxianyuan.xyz/publication/2024-IVM)).
 * 2023: 2nd Prize of Science and Technology Progress Award of Chinese Association of Automation (CCA)
@@ -114,18 +115,19 @@ redirect_from:
 * FISITA Intelligent Safety Conference China (ISCC 2024, 2025): <b>Technical Committee Member</b>
 
 ### Area Chair / Senior Program Committee (SPC) of Conferences
-* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2024, 2025
+* Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2024, 2025, 2026
 * International Conference on Learning Representations (ICLR): ICLR 2026
-* AAAI Conference on Artificial Intelligence (AAAI): AAAI 2026
+* AAAI Conference on Artificial Intelligence (AAAI): AAAI 2026, 2027
 
 ### Reviewer of Conferences
 * International Conference on Learning Representations (ICLR): ICLR 2024, 2025
 * Conference on Neural Information Processing Systems (NeurIPS): NeurIPS 2022 (<b>top reviewer</b>), 2023
-* International Conference on Machine Learning (ICML): ICML 2022, 2023, 2024, 2025
+* International Conference on Machine Learning (ICML): ICML 2022, 2023, 2024, 2025, 2026
 * AAAI Conference on Artificial Intelligence: AAAI 2021, 2022, 2023, 2024, 2025
 * International Joint Conference on Artificial Intelligence (IJCAI): IJCAI 2023, 2024
 * International Conference on Artificial Intelligence and Statistics (AISTATS): AISTATS 2025
 * SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): KDD 2025
+* Conference on Robot Learning (CoRL): 2025, 2026
 * IEEE International Conference on Robotics and Automation (ICRA): ICRA 2023, 2024
 * Reinforcement Learning Conference (RLC): RLC 2024, 2025
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS): IROS 2022
@@ -179,6 +181,11 @@ redirect_from:
 * Nuclear Science and Techniques
 
 ## Teaching
+### Course Lecturer at Tsinghua University
+* Reinforcement Learning and Control (Spring 2026)
+* Large Language Models and Generative AI (Spring 2026): RL for Large Language Models
+* Future Automobiles (Global OpenCourse) (Fall 2021): Data-driven Methods for Intelligent Urban Transportation Systems
+
 ### Courses as Teaching Assistant at Purdue
 * <b>CE 597</b> (Fall 2015): The Science and Business of Logistics Systems
 * <b>CE 398</b> (Spring 2013): Introduction to Civil Engineering System Design
@@ -191,6 +198,7 @@ redirect_from:
 * DeeCamp 2021, Mentor, Jun. - Aug. 2021., Beijing
 
 ## Advised/Co-Advised Students at Tsinghua University
+* Tianyi Tan (2026-present), PhD student at Tsinghua University, China
 * Yinan Zheng (2023-present), PhD student at Tsinghua University, China
 * Jinliang Zheng (2023-present), PhD student at Tsinghua University, China
 * Jianxiong Li (2021-present), PhD student at Tsinghua University, China 
