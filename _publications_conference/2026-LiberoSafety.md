@@ -6,7 +6,7 @@ excerpt: "19th European Conference on Computer Vision (ECCV 2026)."
 date: 2026-7-1
 venue: '19th European Conference on Computer Vision (ECCV 2026).'
 paperurl: ''
-citation: 'Cui, R., Zhang, Z., Pang, J., Chi, H., Guo, J., Zhang, S., Xie, S., Jin, X., Mu, Y., Yang, J., Yao, G., <b>Zhan, X.</b>, Zhang, Y., Zhao H. LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models. In the <i>19th European Conference on Computer Vision (ECCV 2026)</i>.'
+citation: 'Cui, R., Zhang, Z., Pang, J., Chi, H., Guo, J., Zhang, S., Xie, S., Jin, X., Mu, Y., Yang, J., Yao, G., <b>Zhan, X.</b>, Zhang, Y., Zhao, H. LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models. In the <i>19th European Conference on Computer Vision (ECCV 2026)</i>.'
 ---
 
 Abstract
