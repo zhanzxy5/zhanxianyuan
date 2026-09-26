@@ -4,7 +4,7 @@ collection: publications_conference
 permalink: /publication/2026-X_tokenizer
 excerpt: "10th Annual Conference on Robot Learning
 date: 2026-9-4
-venue: '10th Annual Conference on Robot Learning (CoRL 2026).'
+venue: '10th Annual Conference on Robot Learning.'
 paperurl: ''
 citation: 'Kang, X., Shi, Y., Liang, Y., Gan, R., Liu, D., Zhang, P., Chen, D., Qin, X., Zheng, Y., Zheng, J., Wang, H., <b>Zhan, X.</b>, Su, H. X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Model Pretraining. <i>10th Annual Conference on Robot Learning (CoRL 2026)</i>.'
 ---

@@ -28,7 +28,7 @@ Our team is looking for student interns/postdocs at [AIR](https://air.tsinghua.e
 Recent News and Activities
 ---
 * <b>Sep. 2026:</b> Our three recent papers "[ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow](http://zhanxianyuan.xyz/publication/2026-ODEWorld)", "[Higher-Order Action Supervision Makes A Strong Policy Class](http://zhanxianyuan.xyz/publication/2026-1st_Order_Sup)", and "[Horizon Adaptive Offline Policy Learning via Value Stitching](http://zhanxianyuan.xyz/publication/2026-VAST)" have been accepted in NeurIPS 2026!
-* * <b>Sep. 2026:</b> Our paper "[X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Model Pretraining](http://zhanxianyuan.xyz/publication/2026-X_tokenizer)" has been accepted in CoRL 2026.
+* <b>Sep. 2026:</b> Our paper "[X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Model Pretraining](http://zhanxianyuan.xyz/publication/2026-X_tokenizer)" has been accepted in CoRL 2026.
 * <b>Aug. 2026:</b> We have released "[ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow](http://zhanxianyuan.xyz/publication/2026-ODEWorld)", the first continuous-time latent world model that is built upon a novel physical-time flow mechanism.
 * <b>Jun. 2026:</b> Our paper "[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](http://zhanxianyuan.xyz/publication/2026-LiberoSafety)" has been accepted in ECCV 2026.
 * <b>Apr. 2026:</b> Our paper "[Demystifying Action Space Design for Robotic Manipulation Policies](http://zhanxianyuan.xyz/publication/2026-ActDesign)" has been accepted in ICML 2026.
