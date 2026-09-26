@@ -1,7 +1,7 @@
 ---
 title: "X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Model Pretraining"
 collection: publications_conference
-permalink: /publication/2026-X_tokenizer
+permalink: /publication/2026-Xtokenizer
 excerpt: "10th Annual Conference on Robot Learning
 date: 2026-9-4
 venue: '10th Annual Conference on Robot Learning.'
