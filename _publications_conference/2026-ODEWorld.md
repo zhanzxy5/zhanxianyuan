@@ -1,12 +1,12 @@
 ---
 title: "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow"
-collection: publications_preprint
+collection: publications_conference
 permalink: /publication/2026-ODEWorld
-excerpt: "Preprint, under review."
-date: 2026-8-1
-venue: 'arXiv.'
+excerpt: "Fortieth Annual Conference on Neural Information Processing Systems"
+date: 2026-9-25
+venue: 'Fortieth Annual Conference on Neural Information Processing Systems.'
 paperurl: ''
-citation: 'Liu, D., Niu, H., Cheng, P., Gao, Y., Kang, X., Teng, S., Sreenath, K., <b>Zhan, X.</b> ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow. <i>arXiv preprint arXiv:2607.27924</i>.'
+citation: 'Liu, D., Niu, H., Cheng, P., Gao, Y., Kang, X., Teng, S., Sreenath, K., <b>Zhan, X.</b> ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow. <i>Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</i>.'
 ---
 
 Abstract

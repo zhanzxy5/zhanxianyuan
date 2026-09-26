@@ -1,6 +1,6 @@
 ---
 title: "Demystifying Action Space Design for Robotic Manipulation Policies"
-collection: publications_preprint
+collection: publications_conference
 permalink: /publication/2026-ActDesign
 excerpt: "Forty-Third International Conference on Machine Learning."
 date: 2026-2-26
