@@ -21,11 +21,11 @@ redirect_from:
 * 2024/12 - Present: Research Associate Professor
   * Institute for AI Industry Research (AIR), Tsinghua University
 
+* 2022/10 - 2025/9: Dual-Appointed Young Researcher
+  * Shanghai Artificial Intelligence Laboratory
+
 * 2021/07 - 2024/12: Research Assistant Professor
   * Institute for AI Industry Research (AIR), Tsinghua University
-
-* 2022/10 - Present: Dual-Appointed Young Researcher
-  * Shanghai Artificial Intelligence Laboratory
 
 * 2018/01 - 2021/07: Data Scientist, Senior Researcher
   * JD Technology, JD Intelligent Cities Research
